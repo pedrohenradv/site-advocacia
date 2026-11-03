@@ -26,8 +26,8 @@ FUSO = timezone(timedelta(hours=-3))  # horário de Brasília
 # ---------------------------------------------------------------- áreas e buscas
 AREAS = {
     "bancario": '(banco OR bancário OR "instituição financeira" OR superendividamento OR "juros abusivos" '
-                'OR consignado OR "golpe do Pix" OR "busca e apreensão" OR "cartão de crédito") '
-                '(STJ OR Justiça OR tribunal OR "Banco Central" OR consumidor)',
+                'OR consignado OR "golpe do Pix" OR "busca e apreensão" OR "cartão de crédito" OR "empréstimo" '
+                'OR "Banco Central") (STJ OR Justiça OR tribunal OR decide OR consumidor OR regra OR clientes)',
     "criminal": '(STJ OR STF OR tribunal OR Justiça) (penal OR criminal OR "habeas corpus" OR "prisão preventiva" '
                 'OR "audiência de custódia" OR "execução penal")',
     "trabalhista": '(TST OR "Justiça do Trabalho" OR trabalhista OR CLT OR FGTS OR "verbas rescisórias")',
@@ -62,6 +62,30 @@ FONTES_PERMITIDAS = {
     "poder360.com.br": "Poder360", "terra.com.br": "Terra", "r7.com": "R7",
     "band.uol.com.br": "Band", "istoedinheiro.com.br": "IstoÉ Dinheiro",
 }
+
+# O título precisa conter ao menos um termo da área (evita notícias fora do tema).
+TERMOS_AREA = {
+    "bancario": r"banc|financeir|juros|consignad|cart[aã]o de cr[eé]dito|d[ií]vida|superendivid|\bpix\b|empr[eé]stimo"
+                r"|cr[eé]dito|banco central|\bbc\b|tarifa|financiamento|busca e apreens|golpe|fraude|cheque especial|rotativo",
+    "criminal": r"pena|penal|crime|criminal|pris[aã]o|pres[oa]|habeas|r[eé]u|acusad|j[uú]ri|inqu[eé]rito|cust[oó]dia"
+                r"|condena|absolv|domiciliar|investigad|tr[aá]fico|furto|roubo|homic[ií]dio|execu[cç][aã]o penal|delega",
+    "trabalhista": r"trabalh|\btst\b|\btrt|\bclt\b|fgts|empregad|empregador|demiss|demit|rescis|sal[aá]ri|f[eé]rias"
+                   r"|horas extras|v[ií]nculo|sindica|aviso pr[eé]vio|jornada|justa causa",
+    "civel": r"indeniza|dano moral|danos morais|consumidor|contrato|c[oó]digo civil|responsabilidade|plano de sa[uú]de"
+             r"|responsabiliza|condena|isenta|concession[aá]ria|cobran|despejo|aluguel|heran|div[oó]rcio|pens[aã]o aliment|usucapi|im[oó]vel",
+    "transito": r"\bcnh\b|habilita|contran|detran|multa|tr[aâ]nsito|lei seca|motorista|condutor|radar|pontos na|ped[aá]gio|free flow",
+    "previdenciario": r"\binss\b|aposentad|previd|benef[ií]cio|\bbpc\b|\bloas\b|pens[aã]o por morte|aux[ií]lio|per[ií]cia|13º",
+}
+
+# Títulos com estes termos são descartados: publicidade de escritórios, eventos,
+# leilões e assuntos fora do escopo jurídico do site.
+EXCLUIR = re.compile(
+    r"\banuncia\b|\bchegada\b|novo s[oó]cio|nova s[oó]cia|\bcontrata\b|\bescrit[oó]rio\b|\bAdvogados\b|\bAdvocacia\b"
+    r"|leil[aã]o|webinar|semin[aá]rio|congresso|palestra|\bcurso\b|podcast|\bevento\b|inscri[cç][oõ]es"
+    r"|\bEUA\b|Estados Unidos|celebridade|famosa|famoso|influenciador|BBB|novela|horóscopo"
+    r"|No Meu Voto|\bnomeia\b|troca comando|\bsecret[aá]rio\b|campanha institucional|\bvagas?\b|concurso p[uú]blico",
+    re.IGNORECASE,
+)
 
 FEED = "https://news.google.com/rss/search?q={q}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
 UA = "Mozilla/5.0 (compatible; atualizador-noticias-site/1.0)"
@@ -109,6 +133,10 @@ def ler_feed(xml_bytes: bytes, area: str, limite: datetime):
         # O Google Notícias acrescenta " - Veículo" ao fim do título.
         if fonte_nome and titulo.endswith(" - " + fonte_nome):
             titulo = titulo[: -(len(fonte_nome) + 3)].strip()
+        if EXCLUIR.search(titulo):
+            continue
+        if not re.search(TERMOS_AREA[area], titulo, re.IGNORECASE):
+            continue
         itens.append({
             "area": area,
             "data": data.strftime("%Y-%m-%d"),
@@ -167,7 +195,8 @@ def main(arquivos_teste=None):
         if not por_area[area]:  # mantém as anteriores ainda recentes
             reserva_lim = (agora - timedelta(days=DIAS_RESERVA)).strftime("%Y-%m-%d")
             por_area[area] = [dict(n, _ts=datetime.fromisoformat(n["data"]).timestamp())
-                              for n in anteriores.get(area, []) if n.get("data", "") >= reserva_lim]
+                              for n in anteriores.get(area, []) if n.get("data", "") >= reserva_lim
+                              and not EXCLUIR.search(n.get("titulo", ""))]
 
     itens = montar(por_area)
     if not itens:
