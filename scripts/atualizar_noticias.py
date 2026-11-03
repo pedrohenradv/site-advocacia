@@ -77,12 +77,19 @@ TERMOS_AREA = {
     "previdenciario": r"\binss\b|aposentad|previd|benef[ií]cio|\bbpc\b|\bloas\b|pens[aã]o por morte|aux[ií]lio|per[ií]cia|13º",
 }
 
+# Áreas em que o título precisa ter também um contexto jurídico ou de consumidor
+# (evita notícias de economia e mercado na área bancária).
+CONTEXTO_JURIDICO = {
+    "bancario": r"\bstj\b|\bstf\b|justi[cç]a|juiz|ju[ií]za|tribunal|\btj|decide|decis[aã]o|condena|direito|consumidor"
+                r"|client|\blei\b|regra|procon|indeniza|abusiv|golpe|fraude|devolu|ressarc|limita|proib|veda|norma|resolu",
+}
+
 # Títulos com estes termos são descartados: publicidade de escritórios, eventos,
 # leilões e assuntos fora do escopo jurídico do site.
 EXCLUIR = re.compile(
     r"\banuncia\b|\bchegada\b|novo s[oó]cio|nova s[oó]cia|\bcontrata\b|\bescrit[oó]rio\b|\bAdvogados\b|\bAdvocacia\b"
     r"|leil[aã]o|webinar|semin[aá]rio|congresso|palestra|\bcurso\b|podcast|\bevento\b|inscri[cç][oõ]es"
-    r"|\bEUA\b|Estados Unidos|celebridade|famosa|famoso|influenciador|BBB|novela|horóscopo"
+    r"|\bEUA\b|Estados Unidos|Paraguai|Argentina|presidente do pa[ií]s|celebridade|famosa|famoso|influenciador|BBB|novela|horóscopo"
     r"|No Meu Voto|\bnomeia\b|troca comando|\bsecret[aá]rio\b|campanha institucional|\bvagas?\b|concurso p[uú]blico",
     re.IGNORECASE,
 )
@@ -136,6 +143,8 @@ def ler_feed(xml_bytes: bytes, area: str, limite: datetime):
         if EXCLUIR.search(titulo):
             continue
         if not re.search(TERMOS_AREA[area], titulo, re.IGNORECASE):
+            continue
+        if area in CONTEXTO_JURIDICO and not re.search(CONTEXTO_JURIDICO[area], titulo, re.IGNORECASE):
             continue
         itens.append({
             "area": area,
