@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pedrohenriqueferreira.adv.br/sitemap.xml
