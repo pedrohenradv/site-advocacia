@@ -81,7 +81,10 @@ TERMOS_AREA = {
 # (evita notícias de economia e mercado na área bancária).
 CONTEXTO_JURIDICO = {
     "bancario": r"\bstj\b|\bstf\b|justi[cç]a|juiz|ju[ií]za|tribunal|\btj|decide|decis[aã]o|condena|direito|consumidor"
-                r"|client|\blei\b|regra|procon|indeniza|abusiv|golpe|fraude|devolu|ressarc|limita|proib|veda|norma|resolu",
+                r"|direito do cliente|clientes t[eê]m direito|\blei\b|regra|procon|indeniza|abusiv|golpe|fraude|devolu|ressarc"
+                r"|limita|proib|\bveda|\bnorma\b|\bnormas\b|resolu[cç][aã]o",
+    "criminal": r"\bstj\b|\bstf\b|justi[cç]a|juiz|ju[ií]za|tribunal|\btj|decide|decis[aã]o|\blei\b|habeas|j[uú]ri"
+                r"|condena|absolv|\bpena\b|penal|prescri|nulidade|prova|defesa|garantia|cust[oó]dia",
 }
 
 # Títulos com estes termos são descartados: publicidade de escritórios, eventos,
@@ -89,7 +92,7 @@ CONTEXTO_JURIDICO = {
 EXCLUIR = re.compile(
     r"\banuncia\b|\bchegada\b|novo s[oó]cio|nova s[oó]cia|\bcontrata\b|\bescrit[oó]rio\b|\bAdvogados\b|\bAdvocacia\b"
     r"|leil[aã]o|webinar|semin[aá]rio|congresso|palestra|\bcurso\b|podcast|\bevento\b|inscri[cç][oõ]es"
-    r"|\bEUA\b|Estados Unidos|Paraguai|Argentina|presidente do pa[ií]s|celebridade|famosa|famoso|influenciador|BBB|novela|horóscopo"
+    r"|fora do ar|instabilidade|queim|beb[eê]|esquarte|decapit|estupr|chacina|\bEUA\b|Estados Unidos|Paraguai|Argentina|presidente do pa[ií]s|celebridade|famosa|famoso|influenciador|BBB|novela|horóscopo"
     r"|No Meu Voto|\bnomeia\b|troca comando|\bsecret[aá]rio\b|campanha institucional|\bvagas?\b|concurso p[uú]blico",
     re.IGNORECASE,
 )
