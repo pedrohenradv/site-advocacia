@@ -1,0 +1,26 @@
+name: Atualizar notícias do site
+
+on:
+  schedule:
+    - cron: "17 9 * * *"   # todos os dias às 6h17 (horário de Brasília)
+  workflow_dispatch:        # permite rodar manualmente pelo GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Buscar notícias
+        run: python3 scripts/atualizar_noticias.py
+      - name: Publicar se houver mudança
+        run: |
+          git config user.name "atualizador-noticias"
+          git config user.email "actions@users.noreply.github.com"
+          git add noticias.json
+          git diff --cached --quiet || (git commit -m "Notícias atualizadas em $(date +%d/%m/%Y)" && git push)

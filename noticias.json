@@ -1,0 +1,77 @@
+{
+ "atualizado_em": "2026-11-03",
+ "itens": [
+  {
+   "area": "bancario",
+   "data": "2026-10-28",
+   "titulo": "Superendividamento chega a 20,3 milhões de brasileiros",
+   "resumo": "Relatório do Banco Central mostra o maior comprometimento de renda com dívidas em 21 anos, com alta de 75% do superendividamento em cinco anos. O BC sinalizou novas medidas ainda em 2026, com foco em quem está no rotativo do cartão.",
+   "url": "https://viva.com.br/dinheiro/superendividamento-atinge-203-milhoes-de-brasileiros-diz-banco-central.html",
+   "fonte": "Viva"
+  },
+  {
+   "area": "bancario",
+   "data": "2026-11-03",
+   "titulo": "TJMS revê sanções a bancos em processos de superendividamento",
+   "resumo": "Em seis recursos, o tribunal afastou punições do CDC aplicadas a instituições financeiras na fase de conciliação. Em outro caso, manteve o limite de 40% para descontos de consignado no salário de um servidor.",
+   "url": "https://acritica.net/justica/superendividamento-tjms-derruba-punicoes-bancos-audiencia-sem-proposta/",
+   "fonte": "A Crítica"
+  },
+  {
+   "area": "bancario",
+   "data": "2026-07-15",
+   "titulo": "Golpe da falsa central: banco responde se houver falha no serviço",
+   "resumo": "A Terceira Turma do STJ entendeu que a responsabilidade do banco não é automática. É preciso demonstrar falha, como a não identificação de transações fora do perfil do cliente ou mecanismos de segurança insuficientes.",
+   "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15072026-Sem-transacoes-incompativeis-com-perfil-de-cliente--banco-nao-responde-por-golpe-da-falsa-central.aspx",
+   "fonte": "STJ"
+  },
+  {
+   "area": "transito",
+   "data": "2026-10-29",
+   "titulo": "Free flow: prazo para quitar pedágio sem multa vai até 16/11",
+   "resumo": "Pela Deliberação Contran nº 277/2026, quem passou por pórticos de pedágio eletrônico sem pagar pode regularizar até 16 de novembro sem multa nem pontos na CNH. A partir de 17/11, cada evasão volta a gerar penalidade.",
+   "url": "https://www.mixvale.com.br/2026/10/29/contran-suspende-multa-do-free-flow-ate-16-de-novembro-de-2026/",
+   "fonte": "Mix Vale"
+  },
+  {
+   "area": "transito",
+   "data": "2026-10-30",
+   "titulo": "CNH vencida entre junho e dezembro vale até 9/12",
+   "resumo": "A Deliberação Contran nº 279/2026 prorrogou a validade das habilitações vencidas entre 5 de junho e 8 de dezembro de 2026. Depois de 9 de dezembro, passa a contar a tolerância de 30 dias prevista no CTB.",
+   "url": "https://www.cnnbrasil.com.br/auto/motorista-tera-mais-prazo-para-renovar-cnh-confira-se-e-o-seu-caso/",
+   "fonte": "CNN Brasil"
+  },
+  {
+   "area": "trabalhista",
+   "data": "2026-10-27",
+   "titulo": "TST fixa duas novas teses vinculantes",
+   "resumo": "O Pleno validou a norma coletiva que adota o divisor 220 para jornada de 40 horas semanais (Tema 316). Também decidiu que o protesto em ata contra indeferimento de prova não precisa ser renovado em razões finais (Tema 317).",
+   "url": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tst-define-novas-teses-vinculantes",
+   "fonte": "TRT-2"
+  },
+  {
+   "area": "previdenciario",
+   "data": "2026-11-02",
+   "titulo": "13º do INSS em novembro só para benefícios novos",
+   "resumo": "Como o abono anual foi antecipado no primeiro semestre, só recebe agora quem teve o benefício concedido a partir de maio de 2026, de forma proporcional. Os pagamentos ocorrem de 24/11 a 7/12, conforme o final do benefício.",
+   "url": "https://concursosnobrasil.com/beneficios-sociais/2026/11/02/13o-salario-do-inss-quem-recebe-em-novembro-e-o-calendario",
+   "fonte": "Concursos no Brasil"
+  },
+  {
+   "area": "criminal",
+   "data": "2026-10-13",
+   "titulo": "Drogas: natureza e quantidade devem ser avaliadas em conjunto na pena",
+   "resumo": "O STJ definiu que a natureza e a quantidade da droga devem ser valoradas sempre em conjunto e, preferencialmente, na terceira fase da dosimetria, para modular a fração de redução (Informativo 906).",
+   "url": "https://juris.damasio.com.br/jurisprudencia/ano/2026",
+   "fonte": "Damásio Jurisprudência"
+  },
+  {
+   "area": "trabalhista",
+   "data": "2026-11-02",
+   "titulo": "Saque do FGTS: competência depende do motivo do pedido",
+   "resumo": "No Tema 32, o TST definiu que pedidos de liberação do FGTS ficam na Justiça do Trabalho só quando o motivo decorre da relação de emprego. Os demais vão para a Justiça comum, com regra de transição.",
+   "url": "https://www.mixvale.com.br/2026/11/02/justica-do-trabalho-julga-saque-do-fgts-so-se-ligado-ao-contrato-em/",
+   "fonte": "Mix Vale"
+  }
+ ]
+}
