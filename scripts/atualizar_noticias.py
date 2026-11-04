@@ -91,7 +91,7 @@ CONTEXTO_JURIDICO = {
 # leilões e assuntos fora do escopo jurídico do site.
 EXCLUIR = re.compile(
     r"\banuncia\b|\bchegada\b|novo s[oó]cio|nova s[oó]cia|\bcontrata\b|\bescrit[oó]rio\b|\bAdvogados\b|\bAdvocacia\b"
-    r"|leil[aã]o|webinar|semin[aá]rio|congresso|palestra|\bcurso\b|podcast|\bevento\b|inscri[cç][oõ]es"
+    r"|leil[aãoõ]|webinar|semin[aá]rio|congresso|palestra|\bcurso\b|podcast|\bevento\b|inscri[cç][oõ]es"
     r"|fora do ar|instabilidade|queim|beb[eê]|esquarte|decapit|estupr|chacina|\bEUA\b|Estados Unidos|Paraguai|Argentina|presidente do pa[ií]s|celebridade|famosa|famoso|influenciador|BBB|novela|horóscopo"
     r"|No Meu Voto|\bnomeia\b|troca comando|\bsecret[aá]rio\b|campanha institucional|\bvagas?\b|concurso p[uú]blico",
     re.IGNORECASE,
