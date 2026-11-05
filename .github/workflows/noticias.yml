@@ -1,9 +1,12 @@
 name: Atualizar notícias do site
 
+# As notícias são gravadas no ramo "noticias" (e não no "main").
+# O site lê o arquivo direto do GitHub, então a atualização diária NÃO usa créditos do Netlify.
+
 on:
   schedule:
     - cron: "17 9 * * *"   # todos os dias às 6h17 (horário de Brasília)
-  workflow_dispatch:        # permite rodar manualmente pelo GitHub
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,20 +19,28 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Recuperar notícias anteriores (reserva em caso de falha)
+        run: |
+          git fetch origin noticias:noticias 2>/dev/null && git show noticias:noticias.json > noticias.json || true
       - name: Buscar notícias
         run: python3 scripts/atualizar_noticias.py
-      - name: Publicar se houver mudança
+      - name: Publicar no ramo "noticias"
         run: |
+          cp noticias.json /tmp/noticias.json
           git config user.name "atualizador-noticias"
           git config user.email "actions@users.noreply.github.com"
+          if git rev-parse --verify noticias >/dev/null 2>&1; then
+            git checkout -f noticias
+          else
+            git checkout --orphan noticias
+            git rm -rf --quiet . || true
+          fi
+          cp /tmp/noticias.json noticias.json
           git add noticias.json
           if git diff --cached --quiet; then echo "Sem mudanças."; exit 0; fi
           git commit -m "Notícias atualizadas em $(TZ=America/Sao_Paulo date +%d/%m/%Y)"
-          # Tenta até 5 vezes: falhas momentâneas do GitHub não derrubam a atualização.
           for tentativa in 1 2 3 4 5; do
-            if git pull --rebase origin main && git push origin HEAD:main; then
-              echo "Publicado na tentativa $tentativa."; exit 0
-            fi
+            if git push origin noticias; then echo "Publicado na tentativa $tentativa."; exit 0; fi
             echo "Falha na tentativa $tentativa; nova tentativa em $((tentativa * 20))s."
             sleep $((tentativa * 20))
           done

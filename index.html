@@ -630,7 +630,10 @@
       </article>`).join(''):'<p style="color:var(--suave)">Nenhuma notícia recente nesta área. Volte em breve.</p>';
   }
   let DADOS=null;
-  fetch('noticias.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(d=>{DADOS=d;renderNoticias(d)})
+  const FONTE_NOTICIAS='https://raw.githubusercontent.com/pedrohenradv/site-advocacia/noticias/noticias.json';
+  fetch(FONTE_NOTICIAS,{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject())
+    .catch(()=>fetch('noticias.json').then(r=>r.ok?r.json():Promise.reject()))
+    .then(d=>{DADOS=d;renderNoticias(d)})
     .catch(()=>{document.getElementById('noticias-grid').innerHTML='<p style="color:var(--suave)">Não foi possível carregar as notícias agora.</p>'});
   document.querySelectorAll('.filtro').forEach(btn=>btn.addEventListener('click',()=>{
     document.querySelectorAll('.filtro').forEach(b=>b.classList.remove('ativo'));

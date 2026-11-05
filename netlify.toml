@@ -1,0 +1,5 @@
+# Controle de créditos do Netlify (plano gratuito: cada publicação custa 15 créditos).
+# O site só é publicado quando a mensagem do commit contém [deploy].
+# Qualquer outra alteração no GitHub (inclusive as notícias diárias) NÃO gera publicação.
+[build]
+  ignore = "git log -1 --pretty=%B | grep -q '\\[deploy\\]' && exit 1 || exit 0"
