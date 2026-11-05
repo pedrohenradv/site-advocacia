@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Problemas com banco ou financeira? | Dr. Pedro Henrique - Direito Bancário</title>
+<meta name="description" content="Juros abusivos, superendividamento, golpe do Pix, descontos indevidos e busca e apreensão de veículo. Atendimento com advogado em Ipatinga/MG e online em todo o Brasil.">
+<meta name="robots" content="noindex, follow">
+<meta property="og:title" content="Problemas com banco ou financeira? Fale com um advogado">
+<meta property="og:description" content="Atendimento em Direito Bancário: presencial no Vale do Aço e online em todo o Brasil.">
+<meta property="og:image" content="https://pedrohenriqueferreira.adv.br/img/pedro-hero.jpg">
+<link rel="icon" type="image/png" href="../img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,600&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{--navy:#1b2d37;--petroleo:#26424f;--bege:#cbc5b9;--bege-claro:#e9e5dd;--grafite:#535458;--prata:#a5a6a3;--off:#f7f4ef;--texto:#2c3136;--suave:#5d656c;--zap:#1f9d55;--raio:14px}
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{font-family:'Manrope',system-ui,sans-serif;color:var(--texto);background:var(--off);line-height:1.65;font-size:17px;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  img,svg{display:block}
+  .wrap{width:min(1100px,92%);margin:0 auto}
+  h1,h2,h3{font-family:'Cormorant Garamond',Georgia,serif;font-weight:700;line-height:1.12}
+  .eyebrow{font-size:.76rem;letter-spacing:.22em;text-transform:uppercase;font-weight:700;color:var(--petroleo)}
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:.6rem;padding:1rem 1.7rem;border-radius:999px;font-weight:700;font-size:1rem;text-decoration:none;transition:transform .2s, background .2s;border:0;cursor:pointer;font-family:inherit}
+  .btn:hover{transform:translateY(-2px)}
+  .btn-zap{background:var(--zap);color:#fff;box-shadow:0 12px 28px -12px rgba(31,157,85,.7)}
+  .btn-zap:hover{background:#178246}
+  .btn-linha{border:1.5px solid rgba(247,244,239,.45);color:var(--off)}
+
+  header{background:var(--navy);border-bottom:1px solid rgba(165,166,163,.15)}
+  .topo{display:flex;align-items:center;justify-content:space-between;height:72px;gap:1rem}
+  .topo img{height:38px;width:auto}
+  .topo .btn{padding:.6rem 1.1rem;font-size:.88rem}
+
+  /* Hero */
+  .hero{background:radial-gradient(120% 90% at 85% 10%, #2b4855 0%, var(--navy) 55%, #13222a 100%);color:var(--off);overflow:hidden}
+  .hero-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:2.5rem;align-items:end}
+  .hero-texto{padding:4.5rem 0 4.5rem}
+  .hero .eyebrow{color:var(--bege)}
+  .hero h1{font-size:clamp(2.4rem,5vw,3.9rem);margin:1rem 0 1.2rem}
+  .hero h1 em{color:var(--bege)}
+  .hero p.lead{font-size:1.1rem;color:#d0d6da;max-width:540px;margin-bottom:2rem}
+  .hero-acoes{display:flex;flex-wrap:wrap;gap:1rem}
+  .confianca{display:flex;flex-wrap:wrap;gap:.4rem 1.3rem;margin-top:1.6rem;font-size:.85rem;color:var(--prata)}
+  .confianca span::before{content:"✓";color:var(--bege);margin-right:.4rem}
+  .hero-foto{align-self:end;display:flex;justify-content:center}
+  .hero-foto img{width:100%;max-width:420px;height:auto;border-radius:18px 18px 0 0;-webkit-mask-image:linear-gradient(to bottom,#000 75%,transparent);mask-image:linear-gradient(to bottom,#000 75%,transparent)}
+
+  /* Abas */
+  .situacoes{padding:5rem 0 4rem}
+  .titulo{max-width:680px;margin-bottom:2rem}
+  .titulo h2{font-size:clamp(2rem,3.8vw,2.8rem);color:var(--navy);margin-top:.6rem}
+  .titulo h2 em{color:var(--petroleo)}
+  .titulo p{color:var(--suave);margin-top:.8rem}
+  .abas{display:flex;gap:.6rem;overflow-x:auto;padding-bottom:.6rem;margin-bottom:1.6rem;scrollbar-width:thin;scroll-snap-type:x proximity}
+  .aba{flex:none;scroll-snap-align:start;font:inherit;font-size:.92rem;font-weight:700;padding:.8rem 1.2rem;border-radius:12px;border:1.5px solid #d6d0c5;background:#fff;color:var(--grafite);cursor:pointer;transition:all .2s;display:flex;align-items:center;gap:.5rem}
+  .aba:hover{border-color:var(--petroleo)}
+  .aba[aria-selected="true"]{background:var(--navy);border-color:var(--navy);color:var(--off)}
+  .painel{display:none;background:#fff;border:1px solid #e3ddd2;border-radius:18px;overflow:hidden;box-shadow:0 24px 50px -36px rgba(27,45,55,.45)}
+  .painel.ativo{display:grid;grid-template-columns:1.25fr .75fr;animation:entra .35s ease}
+  @keyframes entra{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .painel-corpo{padding:2.6rem}
+  .painel h3{font-size:2.1rem;color:var(--navy);margin-bottom:.4rem}
+  .painel .sub{color:var(--suave);margin-bottom:1.6rem}
+  .dores-titulo{font-weight:800;color:var(--navy);margin-bottom:.8rem;font-size:1.02rem}
+  .dores{list-style:none;display:grid;gap:.7rem;margin-bottom:1.8rem}
+  .dores li{display:flex;gap:.75rem;align-items:flex-start;background:var(--off);border-radius:10px;padding:.8rem 1rem;font-size:.97rem}
+  .dores li::before{content:"";flex:none;width:20px;height:20px;margin-top:2px;border-radius:50%;background:#b54a3a url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3'%3E%3Cpath d='M12 7v6M12 17h.01'/%3E%3C/svg%3E") center/14px no-repeat}
+  .explica{border-left:3px solid var(--bege);padding-left:1.1rem;color:var(--grafite);margin-bottom:1.4rem}
+  .explica strong{color:var(--navy)}
+  .ajuda-titulo{font-weight:800;color:var(--navy);margin-bottom:.6rem}
+  .ajuda{list-style:none;display:grid;gap:.45rem;font-size:.96rem}
+  .ajuda li::before{content:"✓";color:var(--zap);font-weight:800;margin-right:.55rem}
+  .painel-cta{background:var(--navy);color:var(--off);padding:2.6rem 2.2rem;display:flex;flex-direction:column;justify-content:center;gap:1.1rem}
+  .painel-cta h4{font-family:'Cormorant Garamond',serif;font-size:1.8rem;line-height:1.15}
+  .painel-cta p{color:#cfd6da;font-size:.95rem}
+  .painel-cta .alerta{background:rgba(203,197,185,.12);border:1px solid rgba(203,197,185,.3);border-radius:10px;padding:.8rem 1rem;font-size:.88rem;color:var(--bege)}
+  .painel-cta small{color:var(--prata);font-size:.8rem}
+
+  /* Como funciona */
+  .como{background:#fff;padding:4.5rem 0}
+  .passos{display:grid;grid-template-columns:repeat(3,1fr);gap:1.6rem}
+  .passo{padding:1.6rem;border-radius:var(--raio);background:var(--off);border:1px solid #e6e0d6}
+  .passo .num{font-family:'Cormorant Garamond',serif;font-size:2.4rem;color:var(--petroleo);line-height:1}
+  .passo h3{font-size:1.35rem;color:var(--navy);margin:.5rem 0 .35rem}
+  .passo p{font-size:.94rem;color:var(--suave)}
+
+  /* Quem atende */
+  .quem{padding:4.5rem 0}
+  .quem-grid{display:grid;grid-template-columns:.7fr 1.3fr;gap:3.5rem;align-items:center}
+  .quem img{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center 20%;border-radius:var(--raio)}
+  .quem h2{font-size:clamp(1.9rem,3.4vw,2.6rem);color:var(--navy);margin:.6rem 0 1rem}
+  .quem p{color:var(--grafite);margin-bottom:1rem}
+  .selos{display:flex;flex-wrap:wrap;gap:.6rem;margin:1.2rem 0 1.8rem}
+  .selos span{background:var(--bege-claro);border-radius:999px;padding:.45rem .95rem;font-size:.85rem;font-weight:700;color:var(--navy)}
+
+  /* FAQ */
+  .faq{background:#fff;padding:4.5rem 0}
+  .faq-lista{max-width:820px}
+  details{border-bottom:1px solid #e6e0d6;padding:1.25rem 0}
+  summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:1rem;font-weight:700;color:var(--navy)}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";font-size:1.5rem;line-height:1;color:var(--petroleo)}
+  details[open] summary::after{content:"−"}
+  details p{margin-top:.8rem;color:var(--suave);font-size:.96rem}
+
+  /* CTA final */
+  .final{background:radial-gradient(100% 120% at 50% 0%, #2b4855 0%, var(--navy) 70%);color:var(--off);text-align:center;padding:4.5rem 0}
+  .final h2{font-size:clamp(2rem,4vw,2.9rem);max-width:760px;margin:0 auto 1rem}
+  .final h2 em{color:var(--bege)}
+  .final p{color:#cfd5da;max-width:560px;margin:0 auto 2rem}
+
+  footer{background:#13222a;color:var(--prata);padding:2.4rem 0 6rem;font-size:.82rem}
+  footer .linha{display:flex;justify-content:space-between;gap:1.5rem;flex-wrap:wrap;margin-bottom:1.2rem}
+  footer img{height:34px;width:auto}
+  footer a{color:var(--bege)}
+  footer .legal{color:#8a939b;line-height:1.6}
+
+  /* Barra fixa no celular */
+  .barra{display:none}
+  @media (max-width:900px){
+    .hero-grid,.quem-grid{grid-template-columns:1fr}
+    .hero-texto{padding:3.2rem 0 1rem}
+    .hero-foto img{max-width:300px}
+    .painel.ativo{grid-template-columns:1fr}
+    .painel-corpo,.painel-cta{padding:1.8rem 1.4rem}
+    .passos{grid-template-columns:1fr}
+    .quem img{max-width:340px}
+    .topo .btn span{display:none}
+    .barra{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:50;padding:.7rem 4%;background:rgba(27,45,55,.97);backdrop-filter:blur(6px);gap:.8rem;align-items:center;border-top:1px solid rgba(165,166,163,.2)}
+    .barra .btn{flex:1;padding:.85rem 1rem}
+  }
+  @media (max-width:560px){body{font-size:16px}.painel h3{font-size:1.75rem}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap topo">
+    <a href="https://pedrohenriqueferreira.adv.br/" aria-label="Pedro Henrique Advogado"><img src="../img/logo-horizontal.png" alt="Pedro Henrique Advogado" width="720" height="125"></a>
+    <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.3-.4.7-1.4.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.7 11.8 11.8 0 0 0 4.5 4c1.7.7 2.3.8 3.2.6a2.7 2.7 0 0 0 1.8-1.2 2.2 2.2 0 0 0 .1-1.2c0-.1-.2-.2-.4-.3Z"/></svg>
+      <span>Falar com o advogado</span>
+    </a>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-texto">
+      <span class="eyebrow">Direito Bancário · Ipatinga e todo o Brasil</span>
+      <h1>Problemas com <em>banco ou financeira</em>? Você não precisa enfrentar isso sozinho.</h1>
+      <p class="lead">Juros que não param de crescer, golpe no Pix, descontos que você não reconhece, risco de perder o carro financiado. Entenda a sua situação e fale direto com o advogado.</p>
+      <div class="hero-acoes">
+        <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o advogado no WhatsApp</a>
+        <a class="btn btn-linha" href="#situacoes">Qual é a minha situação?</a>
+      </div>
+      <div class="confianca"><span>Atendimento direto com o advogado</span><span>Online em todo o Brasil</span><span>Sigilo profissional</span><span>OAB/MG 233.254</span></div>
+    </div>
+    <div class="hero-foto"><img src="../img/pedro-hero.jpg" alt="Dr. Pedro Henrique Ferreira Lima, advogado" width="1050" height="1400" fetchpriority="high"></div>
+  </div>
+</section>
+
+<section class="situacoes" id="situacoes">
+  <div class="wrap">
+    <div class="titulo">
+      <span class="eyebrow">Escolha o seu caso</span>
+      <h2>Qual dessas situações <em>você está vivendo?</em></h2>
+      <p>Toque no assunto para entender os seus direitos e o que pode ser feito.</p>
+    </div>
+
+    <div class="abas" role="tablist" aria-label="Tipos de problema bancário">
+      <button class="aba" role="tab" data-aba="juros" aria-selected="true">📈 Juros abusivos</button>
+      <button class="aba" role="tab" data-aba="superendividamento" aria-selected="false">🧾 Superendividamento</button>
+      <button class="aba" role="tab" data-aba="golpe" aria-selected="false">⚠️ Golpe do Pix e fraudes</button>
+      <button class="aba" role="tab" data-aba="consignado" aria-selected="false">💳 Consignado e RMC</button>
+      <button class="aba" role="tab" data-aba="busca-e-apreensao" aria-selected="false">🚗 Busca e apreensão</button>
+      <button class="aba" role="tab" data-aba="negativacao" aria-selected="false">🚫 Nome negativado</button>
+      <button class="aba" role="tab" data-aba="cobranca" aria-selected="false">⚖️ Cobrança e execução</button>
+    </div>
+
+    <!-- JUROS -->
+    <article class="painel ativo" id="juros" role="tabpanel" data-tema="juros abusivos e revisão de contrato">
+      <div class="painel-corpo">
+        <h3>Juros abusivos e revisão de contrato</h3>
+        <p class="sub">Empréstimo pessoal, financiamento, cartão de crédito ou cheque especial.</p>
+        <p class="dores-titulo">Você se identifica com alguma dessas situações?</p>
+        <ul class="dores">
+          <li>Você paga as parcelas há meses, mas a dívida parece nunca diminuir.</li>
+          <li>A parcela pesa tanto no orçamento que falta dinheiro para o básico do mês.</li>
+          <li>Você não entendeu as taxas quando assinou, e hoje o valor final assusta.</li>
+          <li>Apareceram tarifas, seguros ou cobranças que você não lembra de ter contratado.</li>
+        </ul>
+        <p class="explica"><strong>O que diz a lei:</strong> o contrato bancário pode ser revisado quando há juros acima do que é praticado no mercado para aquela operação, ou cobranças sem previsão clara, como seguros e tarifas embutidos. Cada contrato precisa ser analisado individualmente.</p>
+        <p class="ajuda-titulo">Como o advogado pode ajudar</p>
+        <ul class="ajuda">
+          <li>Análise do contrato e das taxas cobradas</li>
+          <li>Identificação de cobranças indevidas</li>
+          <li>Negociação com o banco ou ação revisional, conforme o caso</li>
+        </ul>
+      </div>
+      <aside class="painel-cta">
+        <h4>Quer saber se o seu contrato tem cobrança abusiva?</h4>
+        <p>Envie uma mensagem contando a sua situação. Se tiver o contrato ou os boletos, tenha em mãos.</p>
+        <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o advogado agora</a>
+        <small>Atendimento presencial em Ipatinga ou online.</small>
+      </aside>
+    </article>
+
+    <!-- SUPERENDIVIDAMENTO -->
+    <article class="painel" id="superendividamento" role="tabpanel" data-tema="superendividamento">
+      <div class="painel-corpo">
+        <h3>Superendividamento</h3>
+        <p class="sub">Quando as dívidas somadas já não cabem no seu salário.</p>
+        <p class="dores-titulo">Você se identifica com alguma dessas situações?</p>
+        <ul class="dores">
+          <li>Você usa um empréstimo para pagar outro, e a bola de neve só cresce.</li>
+          <li>Depois de pagar as dívidas, não sobra dinheiro para comida, aluguel ou contas.</li>
+          <li>Recebe ligações de cobrança todos os dias e já não sabe a quem pagar primeiro.</li>
+          <li>Tem cartão, cheque especial e consignado ao mesmo tempo, todos no limite.</li>
+        </ul>
+        <p class="explica"><strong>O que diz a lei:</strong> a Lei 14.181/2021, conhecida como Lei do Superendividamento, permite que o consumidor de boa-fé peça a <strong>repactuação de todas as dívidas</strong> em um único plano de pagamento, preservando o <strong>mínimo existencial</strong> para viver com dignidade.</p>
+        <p class="ajuda-titulo">Como o advogado pode ajudar</p>
+        <ul class="ajuda">
+          <li>Levantamento de todas as dívidas e da sua renda</li>
+          <li>Pedido de repactuação com todos os credores</li>
+          <li>Acompanhamento da audiência de conciliação</li>
+        </ul>
+      </div>
+      <aside class="painel-cta">
+        <h4>As dívidas tomaram conta do seu orçamento?</h4>
+        <p>Existe um caminho legal para reorganizar tudo. Conte a sua situação e entenda as possibilidades.</p>
+        <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o advogado agora</a>
+        <small>Atendimento presencial em Ipatinga ou online.</small>
+      </aside>
+    </article>
+
+    <!-- GOLPE -->
+    <article class="painel" id="golpe" role="tabpanel" data-tema="golpe do Pix ou fraude bancária">
+      <div class="painel-corpo">
+        <h3>Golpe do Pix e fraudes bancárias</h3>
+        <p class="sub">Falsa central, falso funcionário, conta invadida, transações que você não fez.</p>
+        <p class="dores-titulo">Você se identifica com alguma dessas situações?</p>
+        <ul class="dores">
+          <li>Recebeu ligação de uma "central do banco" e acabou fazendo transferências.</li>
+          <li>Viu Pix, compras ou empréstimos na sua conta que você não reconhece.</li>
+          <li>O banco negou a contestação e disse que a responsabilidade é sua.</li>
+          <li>Perdeu as economias de anos e não sabe se ainda dá para recuperar.</li>
+        </ul>
+        <p class="explica"><strong>O que diz a lei:</strong> o banco responde por fraudes quando há <strong>falha na segurança do serviço</strong>, por exemplo ao não bloquear operações muito diferentes do seu perfil de uso. Cada caso precisa ser analisado com os comprovantes e o histórico da conta.</p>
+        <div class="explica" style="border-color:#b54a3a"><strong>Importante:</strong> registre o boletim de ocorrência, comunique o banco imediatamente e guarde prints, extratos e protocolos. Agir rápido faz diferença.</div>
+        <p class="ajuda-titulo">Como o advogado pode ajudar</p>
+        <ul class="ajuda">
+          <li>Análise da responsabilidade do banco no seu caso</li>
+          <li>Contestação e notificação da instituição</li>
+          <li>Ação para buscar o ressarcimento, quando cabível</li>
+        </ul>
+      </div>
+      <aside class="painel-cta">
+        <h4>Caiu em golpe e o banco não resolveu?</h4>
+        <p class="alerta">Quanto antes o caso for analisado, maiores as chances de agir a tempo.</p>
+        <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o advogado agora</a>
+        <small>Atendimento presencial em Ipatinga ou online.</small>
+      </aside>
+    </article>
+
+    <!-- CONSIGNADO -->
+    <article class="painel" id="consignado" role="tabpanel" data-tema="consignado, cartão RMC ou desconto indevido">
+      <div class="painel-corpo">
+        <h3>Consignado, cartão RMC e descontos indevidos</h3>
+        <p class="sub">Descontos no salário ou no benefício do INSS que você não reconhece ou não entende.</p>
+        <p class="dores-titulo">Você se identifica com alguma dessas situações?</p>
+        <ul class="dores">
+          <li>Pediu um empréstimo e recebeu um "cartão de crédito consignado" (RMC ou RCC) sem saber.</li>
+          <li>Desconta todo mês do benefício, mas a dívida nunca termina.</li>
+          <li>Apareceu um empréstimo consignado que você não contratou.</li>
+          <li>Os descontos levam boa parte da sua aposentadoria ou do seu salário.</li>
+        </ul>
+        <p class="explica"><strong>O que diz a lei:</strong> o consumidor tem direito a informação clara sobre o que está contratando. Contratações não reconhecidas e cartões RMC/RCC vendidos como empréstimo comum podem ser questionados, com pedido de <strong>suspensão dos descontos e devolução dos valores</strong>, conforme o caso.</p>
+        <p class="ajuda-titulo">Como o advogado pode ajudar</p>
+        <ul class="ajuda">
+          <li>Análise do extrato de empréstimos do INSS ou do contracheque</li>
+          <li>Pedido de suspensão de descontos indevidos</li>
+          <li>Ação para cancelamento e devolução, quando cabível</li>
+        </ul>
+      </div>
+      <aside class="painel-cta">
+        <h4>Tem desconto no seu salário ou benefício que você não entende?</h4>
+        <p>Tire um print do extrato de empréstimos (no app Meu INSS ou no contracheque) e envie para análise.</p>
+        <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o advogado agora</a>
+        <small>Atendimento presencial em Ipatinga ou online.</small>
+      </aside>
+    </article>
+
+    <!-- BUSCA E APREENSÃO -->
+    <article class="painel" id="busca-e-apreensao" role="tabpanel" data-tema="busca e apreensão de veículo">
+      <div class="painel-corpo">
+        <h3>Busca e apreensão de veículo</h3>
+        <p class="sub">Parcelas do financiamento em atraso e o risco de perder o carro ou a moto.</p>
+        <p class="dores-titulo">Você se identifica com alguma dessas situações?</p>
+        <ul class="dores">
+          <li>Atrasou algumas parcelas e recebeu notificação do banco.</li>
+          <li>Tem medo de sair de casa e ter o carro recolhido a qualquer momento.</li>
+          <li>O veículo já foi apreendido e você não sabe o que fazer para recuperá-lo.</li>
+          <li>Usa o veículo para trabalhar e não pode ficar sem ele.</li>
+        </ul>
+        <p class="explica"><strong>O que diz a lei:</strong> depois da apreensão, os <strong>prazos para agir são curtos</strong>, contados em poucos dias. Há caminhos de defesa e de negociação, e cada contrato e cada processo precisam ser analisados com urgência.</p>
+        <p class="ajuda-titulo">Como o advogado pode ajudar</p>
+        <ul class="ajuda">
+          <li>Análise do contrato e da notificação recebida</li>
+          <li>Defesa no processo de busca e apreensão</li>
+          <li>Negociação com a financeira</li>
+        </ul>
+      </div>
+      <aside class="painel-cta">
+        <h4>Recebeu notificação ou já teve o veículo apreendido?</h4>
+        <p class="alerta">Os prazos são curtos. Não espere para buscar orientação.</p>
+        <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o advogado agora</a>
+        <small>Atendimento presencial em Ipatinga ou online.</small>
+      </aside>
+    </article>
+
+    <!-- NEGATIVAÇÃO -->
+    <article class="painel" id="negativacao" role="tabpanel" data-tema="nome negativado indevidamente">
+      <div class="painel-corpo">
+        <h3>Nome negativado indevidamente</h3>
+        <p class="sub">Restrição no Serasa, SPC ou Banco Central por dívida que você não deve.</p>
+        <p class="dores-titulo">Você se identifica com alguma dessas situações?</p>
+        <ul class="dores">
+          <li>Teve o crédito negado e descobriu uma dívida que não é sua.</li>
+          <li>Pagou ou negociou a dívida, mas o nome continua negativado.</li>
+          <li>Foi negativado sem receber nenhum aviso antes.</li>
+          <li>A restrição está atrapalhando um financiamento, um emprego ou o seu negócio.</li>
+        </ul>
+        <p class="explica"><strong>O que diz a lei:</strong> a inclusão nos cadastros de inadimplentes exige dívida existente e comunicação prévia ao consumidor. Negativações indevidas podem ser retiradas e, conforme o caso, gerar <strong>indenização</strong>.</p>
+        <p class="ajuda-titulo">Como o advogado pode ajudar</p>
+        <ul class="ajuda">
+          <li>Consulta e análise das restrições no seu CPF</li>
+          <li>Pedido de exclusão da negativação indevida</li>
+          <li>Ação de indenização, quando cabível</li>
+        </ul>
+      </div>
+      <aside class="painel-cta">
+        <h4>Seu nome está sujo por uma dívida que você não reconhece?</h4>
+        <p>Envie uma mensagem com o que aparece na consulta do seu CPF.</p>
+        <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o advogado agora</a>
+        <small>Atendimento presencial em Ipatinga ou online.</small>
+      </aside>
+    </article>
+
+    <!-- COBRANÇA -->
+    <article class="painel" id="cobranca" role="tabpanel" data-tema="cobrança ou execução bancária">
+      <div class="painel-corpo">
+        <h3>Cobrança, execução e bloqueio de conta</h3>
+        <p class="sub">Para pessoas e empresas processadas por bancos ou com conta bloqueada.</p>
+        <p class="dores-titulo">Você se identifica com alguma dessas situações?</p>
+        <ul class="dores">
+          <li>Recebeu uma citação ou intimação de processo movido pelo banco.</li>
+          <li>Teve o dinheiro da conta bloqueado de surpresa, inclusive o salário.</li>
+          <li>A empresa está sendo cobrada por uma dívida bancária que não para de crescer.</li>
+          <li>Quer negociar, mas o banco só apresenta propostas impossíveis de pagar.</li>
+        </ul>
+        <p class="explica"><strong>O que diz a lei:</strong> em processos de cobrança há <strong>prazos para apresentar defesa</strong>, e alguns valores, como salário e pequenas reservas, podem ter proteção contra bloqueio, conforme o caso. A análise do contrato pode revelar excessos na cobrança.</p>
+        <p class="ajuda-titulo">Como o advogado pode ajudar</p>
+        <ul class="ajuda">
+          <li>Defesa em ações de cobrança e execução</li>
+          <li>Pedido de desbloqueio de valores protegidos</li>
+          <li>Negociação de acordo viável com o banco</li>
+        </ul>
+      </div>
+      <aside class="painel-cta">
+        <h4>Está sendo processado pelo banco ou teve a conta bloqueada?</h4>
+        <p class="alerta">Processos têm prazo. Busque orientação assim que receber a citação.</p>
+        <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o advogado agora</a>
+        <small>Atendimento presencial em Ipatinga ou online.</small>
+      </aside>
+    </article>
+  </div>
+</section>
+
+<section class="como">
+  <div class="wrap">
+    <div class="titulo"><span class="eyebrow">Como funciona</span><h2>Simples, direto e <em>sem sair de casa</em></h2></div>
+    <div class="passos">
+      <div class="passo"><div class="num">01</div><h3>Você manda a mensagem</h3><p>Pelo WhatsApp, por texto ou áudio, conta o que está acontecendo.</p></div>
+      <div class="passo"><div class="num">02</div><h3>Análise do caso</h3><p>O advogado analisa os documentos (contrato, extratos, prints) e explica os caminhos possíveis.</p></div>
+      <div class="passo"><div class="num">03</div><h3>Estratégia e acompanhamento</h3><p>Definida a estratégia em conjunto, você acompanha cada etapa com retorno direto do advogado.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="quem">
+  <div class="wrap quem-grid">
+    <img src="../img/pedro-sobre.jpg" alt="Dr. Pedro Henrique Ferreira Lima" width="933" height="1400" loading="lazy">
+    <div>
+      <span class="eyebrow">Quem vai cuidar do seu caso</span>
+      <h2>Dr. Pedro Henrique Ferreira Lima</h2>
+      <p>Advogado inscrito na OAB/MG sob o nº 233.254, com escritório em Ipatinga/MG. Atua em Direito Bancário na defesa de consumidores e empresas diante de bancos, financeiras e administradoras de cartão.</p>
+      <p>Cada caso é conduzido pessoalmente, com linguagem clara, sem juridiquês, e sigilo em todas as etapas.</p>
+      <div class="selos"><span>OAB/MG 233.254</span><span>Presencial no Vale do Aço</span><span>Online em todo o Brasil</span></div>
+      <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o Dr. Pedro</a>
+    </div>
+  </div>
+</section>
+
+<section class="faq">
+  <div class="wrap">
+    <div class="titulo"><span class="eyebrow">Dúvidas</span><h2>Perguntas frequentes</h2></div>
+    <div class="faq-lista">
+      <details><summary>Moro longe de Ipatinga. Posso ser atendido?</summary><p>Sim. O atendimento é online para todo o Brasil: conversa pelo WhatsApp ou por videochamada, envio de documentos digitais e processo eletrônico.</p></details>
+      <details><summary>Quais documentos devo separar?</summary><p>Documento de identidade, contratos, extratos, boletos, prints de conversas e comprovantes. Se não tiver tudo, não tem problema: comece pela mensagem que o advogado orienta o que é necessário.</p></details>
+      <details><summary>Já assinei o contrato. Ainda posso questionar?</summary><p>Em muitos casos, sim. Assinar o contrato não impede a revisão de cláusulas ou cobranças abusivas. Cada situação precisa ser analisada individualmente.</p></details>
+      <details><summary>O atendimento é sigiloso?</summary><p>Sim. Todas as informações compartilhadas com o advogado são protegidas pelo sigilo profissional.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="final">
+  <div class="wrap">
+    <h2>Cada dia de espera pode <em>aumentar o problema.</em></h2>
+    <p>Conte a sua situação ao advogado e entenda quais caminhos existem para o seu caso.</p>
+    <a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o advogado no WhatsApp</a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="linha">
+      <img src="../img/logo-horizontal.png" alt="Pedro Henrique Advogado" width="720" height="125">
+      <div>Dr. Pedro Henrique Ferreira Lima · OAB/MG 233.254 · Ipatinga/MG<br><a href="https://pedrohenriqueferreira.adv.br/">pedrohenriqueferreira.adv.br</a></div>
+    </div>
+    <p class="legal">Conteúdo de caráter informativo, que não constitui promessa de resultado. O contato pelo WhatsApp não estabelece, por si só, relação de patrocínio. Cada caso depende de análise individual. Publicação em conformidade com o Provimento nº 205/2021 do Conselho Federal da OAB e com o Código de Ética e Disciplina.</p>
+  </div>
+</footer>
+
+<div class="barra"><a class="btn btn-zap js-zap" href="#" target="_blank" rel="noopener">Falar com o advogado no WhatsApp</a></div>
+
+<script>
+  const FONE='5531987291603';
+  const abas=[...document.querySelectorAll('.aba')];
+  let temaAtual='o meu problema com banco';
+  function link(tema){
+    return 'https://wa.me/'+FONE+'?text='+encodeURIComponent(`Olá, Dr. Pedro! Vim pela sua página de Direito Bancário e gostaria de falar sobre ${tema}. Vou explicar por áudio.`);
+  }
+  function atualizaLinks(){document.querySelectorAll('.js-zap').forEach(a=>a.href=link(temaAtual));}
+  function abrir(id,rolar){
+    const painel=document.getElementById(id); if(!painel) return;
+    abas.forEach(b=>b.setAttribute('aria-selected',b.dataset.aba===id));
+    document.querySelectorAll('.painel').forEach(p=>p.classList.toggle('ativo',p.id===id));
+    temaAtual=painel.dataset.tema; atualizaLinks();
+    const aba=abas.find(b=>b.dataset.aba===id); aba&&aba.scrollIntoView({block:'nearest',inline:'center'});
+    if(rolar) document.getElementById('situacoes').scrollIntoView({behavior:'smooth'});
+  }
+  abas.forEach(b=>b.addEventListener('click',()=>{abrir(b.dataset.aba);history.replaceState(null,'','#'+b.dataset.aba);}));
+  // Link direto para uma aba (ex.: /bancario/#golpe), útil para cada anúncio
+  const h=location.hash.slice(1);
+  if(h&&document.getElementById(h)&&document.getElementById(h).classList.contains('painel')){abrir(h,true);}else{temaAtual='o meu caso';atualizaLinks();}
+</script>
+</body>
+</html>
