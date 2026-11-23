@@ -1,13 +1,53 @@
 {
- "atualizado_em": "2026-11-22",
+ "atualizado_em": "2026-11-23",
  "itens": [
   {
    "area": "bancario",
-   "data": "2026-11-20",
-   "titulo": "Governo e BC criam regra para monitorar impostos recolhidos por bancos",
+   "data": "2026-11-19",
+   "titulo": "Banco Central muda regras para incluir cooperativas no mercado aberto",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkdVWlpKSU45Rzk4Zm9RblZmV3ZLOHV6VkVnbTYxRTRwN19FRFVyNFpuODRlbzdJNlhjaXo5Xzc3NFhzd1djcVo5TlJia0Npc2hkeEtUajA1clM0R2NyNGdFX2trcjhGSmRVOERRUjNETjIyenhzS01wRDRDVHJuaXVTWVBlYUFrTW1XdTEyXy0wMjY4TFc4cjVhMEJ6S0ttM1E1c0lYMWV1Wm9jQllVMmo3Z0xEcXV6QkE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFM3Mmg2bzVqT003QW1TWkQxMk9SN2V2ODNHOGJNandJb252TUsyRDFoQXlveVVfcEJrMDB1SDdUY2ZvVXU2eE4xdWdDVVR6RDZ4dVF3eU9tSnJtS1YtbmdTRUE3dVBlc1RIWGk0UnpxdkJRNDJ0M1AtaEpFVWdZRy02M3JCZVpwU3AyU3RXaFBaT0dIT0VhQS1fODYtcF9RSzFoVkQtOEdzeFdudXc?oc=5",
    "fonte": "UOL Economia"
+  },
+  {
+   "area": "criminal",
+   "data": "2026-11-22",
+   "titulo": "TJ-DF mantém condenação de ex-policial por perseguição virtual",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFdaMWNqTjVQSkp3X1dkTWxlVG40cklCYm9HQ2p6UVh5c0RoWFJsMjR5WlZGT2gtR3RIUHBFZEpKSjNjc1NHV2J1MTNHazhqLUtFMGcydE5tdHhUWkJrSXdSTFRvVko0OGtlakhZU29ONU1nS2NpQUlRTVZBUEJoWUIxQkUyMl9fQzZKWFRERnFKdzJWNlZlLXVzajUxQQ?oc=5",
+   "fonte": "Consultor Jurídico"
+  },
+  {
+   "area": "trabalhista",
+   "data": "2026-11-22",
+   "titulo": "Empregado que recebeu uniforme usado e largo de ex-colega será indenizado",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLU96c0xrd3dQZmo5blZ2bzNOZTdrbmVUTTk4RDhCUmgtd0k2ZkVzWDk4aGxKcnNiUkUxekk3Qk9vMGRSc1cwMURHUjZUdlQwdmRJb1JRelRWWTdUM3RrUnlNcXVfdFV0T3dlQ1ExdkZEWURuT00wNWFZbzIzM1Jaa0dSQjRMaUJTRnAtQzg4dXN3RVhxdHFHV1NkTGplZnR3Mk1uZ3REWmtUUVhs?oc=5",
+   "fonte": "Consultor Jurídico"
+  },
+  {
+   "area": "civel",
+   "data": "2026-11-22",
+   "titulo": "Entregador trabalhou por três meses usando aplicativo, mas ficou sem receber R$ 5.472,61; Justiça mandou liberar o dinheiro e pagar indenização",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNS0pXR05FclVXMmduZEwzcFdnOHlDSTdMa2NrVFVheFlBdUFCYkVrRjdHaURuQ01TbDN3V1Y1cjU5R0VnUDl5bU9feTk1LUZhY3ZSMUlsZVdBVDZSTHNEay1wSlBFSk5WQ0ttclV4eWdWMUUwLTBfMF9xX1BSX3JPaHJYQUpheWx6UjluaUhoTDkyUDNrTWlNem42bDRZMWN3eklLSlluSnEtb09BOFZNQ0dDSC1adFZJNEM5ZjB4QndQS0o2aTlTZXZSa3lMXzQ1NnA0VVduVTB0a3pZSkF3LW52czJ6WWthWHFoYzVJN1BNTmpmenV5Z1NkSDNxOVM5M0pJZVo1RjBSa2ps?oc=5",
+   "fonte": "Estado de Minas"
+  },
+  {
+   "area": "transito",
+   "data": "2026-11-22",
+   "titulo": "Motociclista sem CNH morre após bater de frente com carro no litoral de SP; VÍDEO",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT0FlY0VDd19PbFlWeEhkQXZreUJBTzhacmQ4XzRvVk84LTh5dTE3a0toSUIxZTF3ZGZIaVp1dWlqUjRyaDctd1RCLXZreVAxMTdBV0ZXUXdzT2hKbGNVNTZvaUZtcFI1eExDOE1NY0lnbVRaMFl6MG03Ql85cXZNVmFJVW9WLUY3YllMbEhvU1YxWndmN2ZGVWlrMkx0UjJOR3FwT3hBelpYYkxKV0huQ0R4WkxFQ2sxVVJWck5ENEp3ZmJhSUZQQnJFaU9WRVBuVHBqWEZWTGtWb2fSAeoBQVVfeXFMUGlIVk1mNHJMVHlKdVBWNzhGNm5ibm1lOHIteXdHWjJUMUZrV0w4RTNTRFU3dlRNc0JRM3BXdzJ0eHdXek1SeS1XMTY4OHFDeGVyV1Q1Rl9zVVlFQnI3MHoxbkZFZC1pUEFZYjhXVkp2d1Z4amNvYlZQMVZTYVZEaVQ3UGhXdUtXQURpLXA4eE9WdTZId08zYy1DenNoWk52NG16c1VoY01PdzJ3QllBRHptSVRvb3ZRX2N4SXRMbS04U1JkRmVEQlVQMkZLQkxTeUhRczVaTlB0N0JXdklybjVLVmZJSWNaTzRB?oc=5",
+   "fonte": "g1"
+  },
+  {
+   "area": "previdenciario",
+   "data": "2026-11-23",
+   "titulo": "Opinião | São os juros da dívida, não o BPC, mercadistas",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaEw4bG44ekRhOWl1ZUIzbU5RdG9iU1JuZ244bVRnTGlJUlVxSVVNbE05aG5NRmUtVFg4d3lMZ1k1cTlrUnNON05LaFlTTzdMOHgwaThBdW8wdnBnSzRTOWtMSUJxVkZyNDBJU3lReGhCNXFmS3cwOWxsTTc0amwzTTY1bFBteWN0Ym9RU1RObWRIZHl1dkpsRGVFZ2xEb3NFUTdqUWpVbkIyT1k?oc=5",
+   "fonte": "Estadão"
   },
   {
    "area": "criminal",
@@ -19,19 +59,11 @@
   },
   {
    "area": "trabalhista",
-   "data": "2026-11-21",
-   "titulo": "Consif questiona entendimento do TST sobre prazo para ações sobre previdência privada",
+   "data": "2026-11-22",
+   "titulo": "Empregador tem obrigação de coibir apelidos racistas no trabalho, decide TST",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmlsNFA3Y0RyMXN2cV85dXRrVUdHcktoUUtoUEJMOE5IY0thWHh2dExINXI1MWF2eFdCOUZUVk5XWWtGM2xTQkl5dFc3TjBySDY3S1J1TlU0T19yem5iWTB4LWdxcHRFRkQxbkxoYlFEVHBsSjByeU9pVjVDd2R3dkpzM1U1LW82QU9GUk9kUXdJVWJETHIzaTdsaC10TDdDTXNzamUxc3hMSzd5MEkyV3NQVENtZGRvSmZfRg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkhQVUhQYk9RcUp1OENtY1NCVzBKWnBpQS1ScXBGSUN2WW1kYUplVU1HLXVOYVA3alZSRHNFR3EyLWhJUTk2LXZiTFAzelBfOVR3TnlYblpKLWV4ckY2QWdZYnlfVDRzZkRPb2hBX3g3S25jMHBoQ3QxNWU0aU1qeWtZbHhYelpzMUlveGRCNW5obUxXMlJKZHF6Y2FjX21sQTVuMHRwUTM1Q1A0TWtz?oc=5",
    "fonte": "Consultor Jurídico"
-  },
-  {
-   "area": "bancario",
-   "data": "2026-11-19",
-   "titulo": "Banco Central muda regras para incluir cooperativas no mercado aberto",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFM3Mmg2bzVqT003QW1TWkQxMk9SN2V2ODNHOGJNandJb252TUsyRDFoQXlveVVfcEJrMDB1SDdUY2ZvVXU2eE4xdWdDVVR6RDZ4dVF3eU9tSnJtS1YtbmdTRUE3dVBlc1RIWGk0UnpxdkJRNDJ0M1AtaEpFVWdZRy02M3JCZVpwU3AyU3RXaFBaT0dIT0VhQS1fODYtcF9RSzFoVkQtOEdzeFdudXc?oc=5",
-   "fonte": "UOL Economia"
   },
   {
    "area": "civel",
@@ -43,27 +75,19 @@
   },
   {
    "area": "transito",
-   "data": "2026-11-21",
-   "titulo": "Motorista tenta fugir a pé de blitz da Lei Seca em Jacarepaguá e acaba preso",
+   "data": "2026-11-22",
+   "titulo": "Motociclista sem CNH morre após bater de frente com carro em Guarujá, SP",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcHNZTXRyYUdOWkszcUFXRlZaZElTQ293Y3N2ZUVJQ1puMjdPS1NZWUZEX1EwQlZpZ2k4cUdXcko0ak85M3o5ZWRlOVFoNVFPQzdWUlFhVlRfX0RSSGVFTDRvSkdZMXZFQWo4OXBZaGNha2VETTl5cUtldXRKUGJSMFlkanFBNVc2cF8xR2UyeUFRVW5uc0k0MWpMUGhJSzRMSkRtMlFMQzZyeUFOU1hVUTFxZnU0VHZHODV5Ym1pd2kxbWd6WTJRaWxnbUVreXUyeS16cG9ua0FpdFZ1UzdNYXA4LVlCM2xMSzN5THNVX1hJS05lYS1kTjlKM1dTY0RhdkHSAZACQVVfeXFMT3RFMVVhMGlMVFRVRWFYNWxuSFhIVkdCLVlFd2R6TmtMbE11cVMxWEFyREdsTU1reW5FNkc2S2RYekdIdjFLNGZnblpEWnU5TmgzQ2ZucVR4TEtlVWd3Y09SNld3aE53UFRQVVJQMlV4eEdfN0l1UXpqVThLazZBbkppTmpWUVEtX3loZmIyRWN3R1dVdmRZcTBLelcxRGpTMXFzMWRSQ1IzZDhHVHBVUEdHbWZXYkc3S3lJLThoWmVmVWhRUjFfUE85dXM5bXRoN3djZVdGQjRLS2ZEeTNVZXpBVXFfZ1FpV1lISW4yUkw1QXhoeTRhMzZ0MVJaRUI1ZS1UWGc3UTRCTzJRS3llMEg?oc=5",
-   "fonte": "Extra online"
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT0lDaTlQSGFLZm5mUHlPZW1HSmdXTXRZX2JZQmpSeEVKYy1KWF9qQU5vaXRwUzhqZnpsMHhIRVBuNWJ0SHNRN2sxcFZIemRNMy1IdjNUU3hzT1FjWHE0MGliTUZnY2NCU0loMWRCcjVtZGtIeC0yVm5RUC1TYmxSdVpUcFp5WHB6VFppbmZaVjc0X0c1V3otVEtDWll0eWJudDZyZ2h6Q2FVV1g3Yk9kWmxWN0tWN3A4QV82aktJY3JvOW9PTDNMQ2tB0gHYAUFVX3lxTE1fQjIwY1prcTJSZ3dySjc4aXhFVktZcDkzeXJmWnkyZ3dmYm5oZlFUaWtWUkRiTnRkWEtWVGlES19jeUJNaVVnYmpIRFFGWGxrZTA1ZlZscHgzbDVrZEMtak10X3dNNG9MeEMtb2pzT3pmMHc1bUYzMmVHRVRKRHBOS2h1OEt0LVlnQ1JFN0tYZmJHSFBUMWUyTV9IemtncEFkOXc4UWFHUEFHQ1o5WXVjNUh3QlhRQy1LUnlhVXlNbmhnYmdRYUNOR0VOYVVEZmk0Ti1KT3lPeg?oc=5",
+   "fonte": "g1"
   },
   {
    "area": "previdenciario",
-   "data": "2026-11-22",
-   "titulo": "Chitãozinho e Xororó anunciam aposentadoria após 56 anos de carreira",
+   "data": "2026-11-23",
+   "titulo": "São os juros da dívida, não o BPC, mercadistas",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZE0zUmgwbWxTdTNjWmMwMWowcE0yNDVoakVtM3FZRTJxMkFJM0pnbFMxQ3Q2a016NEJYUjdueVlhc3pJbUg3NWkyMFZhaFBwdmRyV1BSbHJ4RjRndWR2Z21laEFJamxQSk5DUEN3SmFYcVhucHItTmpOLVZoZGIzMXBJQmNYdC1YOGttOHJOR3hzWWVnOU1oZU1iY0FKcmk2WUV3MmJISXNCMVV1aHYwX1NLMXN1VHY4dW1JUnJnSXRFbGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmRTQlFwOXNaQjExTW5hQk15c2Y0RUxrWWdjWkw5ek1ycXZXRDQwOXFKb3hZcFNuVG5iT3NNakw1OEk5MUppOENCanRhTG1OMGsxeHdIcmlzTVNPRXdlR2twc1ctZnc0Qmd2Q1RDN2RHQXUxaEJLZHM1bnNMM0twcHFBOVhKVkpVYUpoQnJuVW1PMEpSTjlXZS1MLU9PRjUz0gGmAUFVX3lxTE5mZ3VVMmRrMVBOekpwaVdXVDlSYjZEcUJrOVRHZ0drV2Z4MnlTOUVsQXJBcDFHMTB6UXNmak52WGJGZHNqR01ScTluRzczc2E2dGNNSDIyRHo4eGZyc2dQUWZySjRaZFBYRVFKSWo1YUdKeVNZdWtWS0p6djJhbUdmYWtUTDFpQWlXNy1QTTNvUmsyajlaeVZMTmpwVVV3Qk9oNlpPUUE?oc=5",
    "fonte": "Estadão"
-  },
-  {
-   "area": "bancario",
-   "data": "2026-11-19",
-   "titulo": "Quadrilha investigada por fraude em concurso do Banco do Brasil é alvo de operação em quatro cidades de PE",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRFVtVzhtNTRxSS1Gam5iTWdaY3RBZ1hRTVJJQm51cHI1RGhMWjVndmtaNG9KdGhtZTV1ZDBMajBJMjEwbGpkbzlsQUxBYTc1YkdkSWN0Tkt5cmZoaHVMa19KMEZCVnFhOEdhcm1rZVdEZmdpM1dtM2V0TjBWOXNUZDZEU0NXaU5GdXZmTGVSY2FqSnZ3WEtGNEhPbTZHSlpMd2RwbVdMTF84SUZfOHVPaVNBRHpsNDdqTG40UEFlZnN1ZXIyLWU4LUdQc1lBU3pBZWt1amVZLUFnbFZINENuRlgzNHR2NzZfWHhlRGJESnUyTjlHSVFTVllQd0JMQTZzcm93MXhRcWnSAZcCQVVfeXFMTjU1SzFLeFR6Z05vYlAtYjJ6OUZVQ0lxWU0ydXd1WERENlU4WDN5YS1zejh2V3BPRlp6MlQ2amRtYUExRjlmUmNDeHVLRVdYUTBpalVNRnAwbWJXR3RHQWdlTFcxN1dCbEI4RGhxX0NrMF9yN05NVkNhcDlpYUY2N0VOMnVkU1hpNnlVV055SHBpODlnVi0yM2pJZFNZU3NZeGdQMzMyckJ2dkNGWGthYkJfYkFWOTVUSnFtNXRsVmFLcXNMVEdKeDRBN19ZRkcyVkZ3OUZnT05GWkFzT2Y4T2g1MFczX2cyMnVOVGdmZ2hxYzhJOHctc1hhRWpHNjBJcFU4NnhGRnJxa1lma0R1WVhxQzZENFRn?oc=5",
-   "fonte": "g1"
   },
   {
    "area": "criminal",
@@ -75,11 +99,11 @@
   },
   {
    "area": "trabalhista",
-   "data": "2026-11-21",
-   "titulo": "Consignado CLT é um mercado ‘altamente competitivo’, diz vice-presidente da ABCD",
+   "data": "2026-11-22",
+   "titulo": "De dia CLT, de noite músico: grupo de pagode enfrenta jornada dupla para viver sonho na música",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ2FlQmF2T0hXbUNCTEZXck9EYXZUMDNkQUlHbENWOFR3Tms3azdBaWFfdGNlVXBQVG1ZMWt4X28yTmNfOU9zcTRXVGFaNGFKM1NmMkNlTHd0U2FXeUpuUkRudFlkdGIyV0JhUUh6NFkzYzJvNlUwbGUzZC12ZVY2TWpLOFE1Y1NJQ0pjQ0FDSzBWTUh5VmxTUUZ5ZGlZcjJKVTRQT3RuMC02NG95Y1B6TjUzUENTVmZYN0JvZ3ZYTWZnMThLVnc?oc=5",
-   "fonte": "JOTA"
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPa0ZhVWtaZ09GNjBJTjVGZFVsN2M2RjgwUm5WeWtkZWVjbHhWQ0FuQmE2SG1uNkFUb3Bmc0dtLXg2ajVTWF90U3FjNkdmZFJTcmRkUE1nZWlzZ1lsYmRhTWRNTnd1U1hUNGFSSHlQZWt1T2dDRmVUbG5zRDhHY1ZYU2dscDRsZ3NUUDA2WHQ5RUM0OVpJWXphODFuYkRJYVlBdllKRTE0d3RaRHI2b2J1QXV1aklSYWxfQWNxZV83RFpuVXFWOWtxUjJ1NXJpVzBVRE1PbmVfTExlNFRRRGQ3RHNqaldxLU5xaXYybE95RVpZZUJDRUNTUUFtSDZDTUhrZXo40gGSAkFVX3lxTE0xemwtRGNXdm5FQldFSkFUTmZxdm5CcjFYSTVodGhoanlQR3lTT2hIUFlUX1lPd21jLWd5VDBKSE1McEdnN1IzOTVWSGpCcmNpQmZFREFTQzNyQUlPaDZod1Yxd2c2TXFHbHE0OWtHZkNha0p0SWVlbWhYTkRtLThiTHZvQjdEdUp4WG0zYnBVRWFvRE9Xc0haV1VZVGZFRldqVXpwdTZ3SzVrSDVoYnZIdFdhTVd2VG1KaEItMDNzMzdoY1JFT1JQZG1YNnVjQkFVNHRrcXdJaEtOOWNZWHF3ZGFhZWljb0FLbjBHenVBNmxiSmZMbG1PbEFvZ0JVQXhrSEJBR0RsWEJQUHhVcE5UNGc?oc=5",
+   "fonte": "g1"
   },
   {
    "area": "civel",
@@ -92,18 +116,18 @@
   {
    "area": "transito",
    "data": "2026-11-21",
-   "titulo": "Lei Seca prende motorista que tentou fugir de blitz no Rio e passageiro com réplica de pistola na Baixada",
+   "titulo": "Motorista tenta fugir a pé de blitz da Lei Seca em Jacarepaguá e acaba preso",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc3M4X2VuWGlOeUFfNTlWcWxIMmxGcmxNSmlaTTB4N0ZwX3U0aFVFLW44dXJnZ21wZTduWXoyd3FCUDVqMlZQUnZqOTRDeFVsSnRyaUVhWGhUVi1iYkh5Y1VEdEozWEtsMG1odlUwXzJmdjZaamJoTVl5UllZRVhXLThEVXRzNkZOZVdiRjVfUEFueV9DWHVhdk1YVnd5TVlwLXFoRDAxLXZWNWdhenV4ZDNmWHlET2NJb2tSMUtwVDRLR2NSRmpIR0ozcEFtazlSTEs4am5kbC1vX3ZsMDVTejNkcjB1RkVpZDJfMERMS1DSAf8BQVVfeXFMTmtkbHE2T0h4bXA2Mnp0NjBWMmNLNC00UDBQNEZuYnVRMU1kOXJTX09vOHpWWWRXa2V1andYcm54cHpQSG5fUzVtemRGekotSWhvaVM1VDBvc0dkcm1CLVdQbVVnbGJrekFTOEN2ZTYzdGt2cndHMWE5UTVaalhoNGUxY2FQd1lwNUhscXh3d3lUTm1qMnktTnZJSU1xbzZSczFLY2RqVWdnVGhiUWJza1ljdmxCMXR0N1paMkVQM2l1QTl3TEpUb3FBbTN1THNJZHFXN21BTzdxN1VxRkxLSUNiR1IzdmZWdURYMnZ2b0VqT1RDSmlXZTJ0d3pZOFp3?oc=5",
-   "fonte": "O GLOBO"
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcHNZTXRyYUdOWkszcUFXRlZaZElTQ293Y3N2ZUVJQ1puMjdPS1NZWUZEX1EwQlZpZ2k4cUdXcko0ak85M3o5ZWRlOVFoNVFPQzdWUlFhVlRfX0RSSGVFTDRvSkdZMXZFQWo4OXBZaGNha2VETTl5cUtldXRKUGJSMFlkanFBNVc2cF8xR2UyeUFRVW5uc0k0MWpMUGhJSzRMSkRtMlFMQzZyeUFOU1hVUTFxZnU0VHZHODV5Ym1pd2kxbWd6WTJRaWxnbUVreXUyeS16cG9ua0FpdFZ1UzdNYXA4LVlCM2xMSzN5THNVX1hJS05lYS1kTjlKM1dTY0RhdkHSAZACQVVfeXFMT3RFMVVhMGlMVFRVRWFYNWxuSFhIVkdCLVlFd2R6TmtMbE11cVMxWEFyREdsTU1reW5FNkc2S2RYekdIdjFLNGZnblpEWnU5TmgzQ2ZucVR4TEtlVWd3Y09SNld3aE53UFRQVVJQMlV4eEdfN0l1UXpqVThLazZBbkppTmpWUVEtX3loZmIyRWN3R1dVdmRZcTBLelcxRGpTMXFzMWRSQ1IzZDhHVHBVUEdHbWZXYkc3S3lJLThoWmVmVWhRUjFfUE85dXM5bXRoN3djZVdGQjRLS2ZEeTNVZXpBVXFfZ1FpV1lISW4yUkw1QXhoeTRhMzZ0MVJaRUI1ZS1UWGc3UTRCTzJRS3llMEg?oc=5",
+   "fonte": "Extra online"
   },
   {
    "area": "previdenciario",
-   "data": "2026-11-22",
-   "titulo": "Quanto do seu salário o INSS vai repor na aposentadoria? Veja o valor que você terá de complementar",
+   "data": "2026-11-23",
+   "titulo": "Veja o que vai mudar nas regras de aposentadoria do INSS a partir de janeiro de 2027",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVHRmTWpNVGZVQ0pHZzF4clNOMWx4OGdtRFJnRjI0NV9EdHp4NVZYbGNaVDRCZEl5cVMtT2ctbXNjbXJqWDRZa1gxaW41aXJaeWtTYmJXb0dxU0JONGFEN0ppRDdDaEdQYnJZOTNaLVB4TjVacEkwcEE1RFRmR09LczBQVTd5MC1JVndBaXR0OVZaZ2ZSTEFQR1RJV0tQSDR6QURwX29GN0drQmhLdDVFVEs1Q2s2aF9OQ2wzXzdCdWlUQ3ZtQmdxMUF2aFVWbnhhM2Z5b1g2TDI2MWVkejRhelhwVGhnYXkwSlU1WG9DUEc1dDlI0gH6AUFVX3lxTFBNSWd2X0hPVlRJME9ESjZMTi1zeEFrMExFUzFVTzhxNXBYckVjSkY1eWVxUHZlQ1RWVzdZZW00dElmeXI3VHdQcWNXRm1pNXEzWTExbVkzcThNRG5wWXoyX0I5OG5wN240UW5qeUhZOFFtMWk0a1ktUi1vMGN5ZFlMZUFiWnZGNTRkMXFudlNwTUJpN0NGTU5lRzI0cUFFYmUtZ29CbHZucGc3NFV3Zk8wYklJS01GMzE3M3VyLW5MeUx4VGNVOF9HRnhRS1VOM0tuTWxqMkNrQzFUd2hwQXpkUU5kQjhoNEdvdmU0djhmVVM5aVZkaXBFTUE?oc=5",
-   "fonte": "Estadão"
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT3pqZnhpV2YzTjVnVlozWm50TGhhNThCdHFHdnBycWJpUHMxeVhNT2o3cVZONzBTYWp4SzhXQWVmaGxPREtDc09VaVQzYWhKckN2QmtqR1NUcmRzSkFqYUFYNWM0SVhzaUpocEMtNlJKTDRfWFFOanJjbkxwVnBCNnRqMHVhVDZjeG80eVdpYkZYeHBuQWFCOEdpLVZOZU83eF9KbzU4UXFqekhOSkNIVzBFc2FBQS1LMGZYUVJoVHJtb1Zsdmo1RldKbzBrTkpWejlpU1piSU5BaXBiekHSAewBQVVfeXFMUG56aDFYRVMxUXF3THBMeWpHYzF1ckVBQUtvcUZhR0lIX1Uzd2U0WFFVcE5JTXZLNDg3c3JidTlwQ1FjSVN3X28zT1Q3TlJyR3RQOWFMSkd0V0VJem9tZEpQOWR4TkQyUnM1eV9zRndhNFhHQzdrNWkzaGpTVThlRmhQV0dJbWlwTm5JbjNuN2FaaWVGSEhrTWtnZE5MYjBOLXdMMjJwT2VYV2w3OGp6eEtHV19nNEctY3ozLW9yWndVa3JtNkZZZ3ZnaDVSanFkNWdDaHFpbGg2SXlLZlpPeDdpM1JZM01qa1VnTXQ?oc=5",
+   "fonte": "Extra online"
   },
   {
    "area": "criminal",
@@ -115,11 +139,11 @@
   },
   {
    "area": "trabalhista",
-   "data": "2026-11-20",
-   "titulo": "Justiça autoriza Pão de Açúcar a parcelar dívida trabalhista em 72 vezes",
+   "data": "2026-11-22",
+   "titulo": "Trio de pagode divide rotina entre trabalho CLT e shows em Rio Preto",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOenVjZzhsdE9RZDJNZ1dhYVJVOGthUDJUSHkwZTZDenU3ZUZzSHhrZWJrM0g3OW5nR0JkVFJRTDFRTVRjODRmelp2bDhKeDk1Yk5OSFFteHRHaGZHRkxKMWNsaXJuazNMOThzajh3ZWVMVWVqbnpObVY3VnlwUUstVzJTOTludTZQWlYtR09sOS02SmNtbkd1eEM5cGJRY3lBeGxiZGpMYm1yTmlkdVE3Vl96UTU5Nm8?oc=5",
-   "fonte": "Poder360"
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ0trcEh4bTZmTVo5UUtPcGtmT2dsQjdSODl4UF9YZ0NRUDV1U1YxOHN1clBnMEtqMlBwYXJiOWstTGM1WHBjQmZKQjItQXZ2SFZ4elFqR0hST1NNYkY4VW5WaVE1YWd6SDd3dEFVWFV1YU1zMm96QVkxdDNxak4tT3UyblotTFliQk9BV01WS0RjRjBwNzVIWWtlZGNYSXg0dVRSN2RDallITUlTdzhnVzdIbThzSHNnLUxBRzg0ci1jS2pFUFN0Q1l30gHYAUFVX3lxTFBNVUNtc0tVSU9fZWg5QjAtV0VYX1dtaG5kakQxMkFXZG5TQWtwclJfaGg0dFN4eWNldENPOWhiMkZQZnJIRUxmeUhRWlhGdk9ZTVFROXljSlA1dzhEMWhjbnFWYXQ4cnJSUGJrSmNFcnAxR1lmcWswMWdlU0paNmEzME9NdkpqaGdRV2FJLWVkRTl4TWZYbTZNaHpsVmtqb3FON0tWbGVwWHdmTVRyRTN4aFJoMV9QTzBjMTYyUXRXX1dKMXJROGZNWkphV0hCamc3THJlOTA0cg?oc=5",
+   "fonte": "g1"
   },
   {
    "area": "civel",
@@ -131,19 +155,19 @@
   },
   {
    "area": "transito",
-   "data": "2026-11-20",
-   "titulo": "Motorista que atropelou homem em São Caetano estava com CNH cassada",
+   "data": "2026-11-21",
+   "titulo": "Lei Seca prende motorista que tentou fugir de blitz no Rio e passageiro com réplica de pistola na Baixada",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFVhcDBfS0lLVUVmdnFuc2ZuTVJtSUtlUWtRWnV0RnVpMzhhUGo5U2Z1UGMzMzJXT2FQMTFhdkd4UEFtd1MtTnpxMk0zSl9aajdtMjYzbG9lajJfSlhuMFNSYlVsU1hDc3pEZDdHLXVIZWhDUkFhOGwyUFlFOUZKcHJKWTZxcmVSbmhsY2gzREhlVmVnclpUMzV6aVN4aEtpVXc5Z21UUERLeGE2cnJRQXpuSGpFM0h2?oc=5",
-   "fonte": "CNN Brasil"
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc3M4X2VuWGlOeUFfNTlWcWxIMmxGcmxNSmlaTTB4N0ZwX3U0aFVFLW44dXJnZ21wZTduWXoyd3FCUDVqMlZQUnZqOTRDeFVsSnRyaUVhWGhUVi1iYkh5Y1VEdEozWEtsMG1odlUwXzJmdjZaamJoTVl5UllZRVhXLThEVXRzNkZOZVdiRjVfUEFueV9DWHVhdk1YVnd5TVlwLXFoRDAxLXZWNWdhenV4ZDNmWHlET2NJb2tSMUtwVDRLR2NSRmpIR0ozcEFtazlSTEs4am5kbC1vX3ZsMDVTejNkcjB1RkVpZDJfMERMS1DSAf8BQVVfeXFMTmtkbHE2T0h4bXA2Mnp0NjBWMmNLNC00UDBQNEZuYnVRMU1kOXJTX09vOHpWWWRXa2V1andYcm54cHpQSG5fUzVtemRGekotSWhvaVM1VDBvc0dkcm1CLVdQbVVnbGJrekFTOEN2ZTYzdGt2cndHMWE5UTVaalhoNGUxY2FQd1lwNUhscXh3d3lUTm1qMnktTnZJSU1xbzZSczFLY2RqVWdnVGhiUWJza1ljdmxCMXR0N1paMkVQM2l1QTl3TEpUb3FBbTN1THNJZHFXN21BTzdxN1VxRkxLSUNiR1IzdmZWdURYMnZ2b0VqT1RDSmlXZTJ0d3pZOFp3?oc=5",
+   "fonte": "O GLOBO"
   },
   {
    "area": "previdenciario",
-   "data": "2026-11-22",
-   "titulo": "Chitãozinho e Xororó anunciam aposentadoria dos palcos",
+   "data": "2026-11-23",
+   "titulo": "Chitãozinho e Xororó revelam motivo e quando surgiu o desejo da aposentadoria",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS2RwX1J0ODJsUWhLallKZmVESlEzOUZTeE9vcDQ5SW43Vk1hdzhZbmpuMi1vajJzNF9QdWNRNGlkcS1kM2FHSVlNcmZNdm55eW9GNmt2Yzh0SjY5eHR2WVdYZ1QtMmdaOHlfb25KajVmTlY4bDY0UXBsSl9YUldtUnA2ZGhScXNyMElZaEdMQlJHQzlhVVU4ZDY5b2VlYTF5eFFBR1lxQXlFTHZwcWxUZNIBvwFBVV95cUxOQUFkNl92cmFQdUE0bmVic0hHTXlwOS1aVlM4TG9FcTV4Tmw3Z1IxQU5PTktyS0NkUUIzUHB1TmxPekJrM0hXSl9PQ09CUkN6aFNKU0ZCYUpPWTU2Z1IxbjgxUkhfeEwzVlNhSXRWNy1DREdmTzdTMGhIWGFiZG5WaWxfdG9neXoyejIyYWtxUHR1dXliVVFPajBEX0pQQlZPaHFwTEVHOGdmY2J0dk1oblhwMlVtc01IRFVSM3Y1SQ?oc=5",
-   "fonte": "g1"
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNGNfOFJ5VkM1OWRBQWZOZUxFdU5VeFczUng0VUxURW11amZ6aldfUDdvcGRkQ3YyUUt4dkU5bFVETXE4TmRwcFpXY3Y5QmxGUG9iR19zcTQwSGxYdmlEUUJlWGc4SW9TRTRoTmxYS1VaZ3ZtcW0zcUk5WVBwU1dabTlzVWJiX2t6Qkw0eXRwaUQ0X0M4Rm9nX3RVaTZ5dElGVjVnOTZIZXpvMTI3VHBpdmxtMk1iZzRnQnh4ODgyaGpOeV9Tb1I2bWNIUzhUQkk4OGMyNkdaWE96NURJYnfSAd4BQVVfeXFMTzRjXzhSeVZDNTlkQUFmTmVMRXVOVXhXM1J4NFVMVEVtdWpmempXX1A3b3BkZEN2MlFLeHZFOWxVRE1xOE5kcHBaV2N2OUJsRlBvYkdfc3E0MEhsWHZpRFFCZVhnOElvU0U0aE5sWEtVWmd2bXFtM3FJOVlQcFNXWm05c1ViYl9rekJMNHl0cGlENF9DOEZvZ190VWk2eXRJRlY1Zzk2SGV6bzEyN1RwaXZsbTJNYmc0Z0J4eDg4MmhqTnlfU29SNm1jSFM4VEJJODhjMjZHWlhPejVESWJ3?oc=5",
+   "fonte": "Gshow"
   },
   {
    "area": "criminal",
@@ -155,11 +179,11 @@
   },
   {
    "area": "trabalhista",
-   "data": "2026-11-20",
-   "titulo": "TST limita cálculo de adicional por tempo de serviço de empregados da Caixa",
+   "data": "2026-11-21",
+   "titulo": "Consignado CLT é um mercado ‘altamente competitivo’, diz vice-presidente da ABCD",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYU5OYTBzbm5RSC1fQTJUaUpCUk1DNlR6SGRjWC1kVGgyNUVrem9hQnZXSVZBWGZvQ1ljTTd0aEt5a2IycFgtUFJBTzZjMWFCMWNwTl9PbXpMYlpNY29hbnhQZ0FBeWxLMFhlSDhqVDZ6bUIwcW41RW9WOXVuSHpHRTlMdEZqVDQxNlVwS0JsMjVnaDdQRW5YbVlqd2JlV1VaOWJNVzdhUQ?oc=5",
-   "fonte": "Migalhas"
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ2FlQmF2T0hXbUNCTEZXck9EYXZUMDNkQUlHbENWOFR3Tms3azdBaWFfdGNlVXBQVG1ZMWt4X28yTmNfOU9zcTRXVGFaNGFKM1NmMkNlTHd0U2FXeUpuUkRudFlkdGIyV0JhUUh6NFkzYzJvNlUwbGUzZC12ZVY2TWpLOFE1Y1NJQ0pjQ0FDSzBWTUh5VmxTUUZ5ZGlZcjJKVTRQT3RuMC02NG95Y1B6TjUzUENTVmZYN0JvZ3ZYTWZnMThLVnc?oc=5",
+   "fonte": "JOTA"
   },
   {
    "area": "civel",
@@ -172,58 +196,18 @@
   {
    "area": "transito",
    "data": "2026-11-20",
-   "titulo": "Coronel chama agente do Detran de 'filho da p*' ao saber que teria carro removido e é detido em Boa Vista",
+   "titulo": "Motorista que atropelou homem em São Caetano estava com CNH cassada",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQVhvUWFtM1E4aWRiNzVheHJzRndjQjVDbm9ELW9FUTVUdE84aVdseE5RRC1zN1Y5WW84QmtrUDZabHF3WHVHZjRMNEhtSGtraXAyendmR3lBZXdlOEllNEh5TXJ4ZnhxTElkME5IanI2S2Z0RnYteVBGZm0yWm9mRXRNVlp4WDIyMGNwRW9iUXJ1aUtZUVZTdV9SZ3BMdm9EVXQ0a3lfQXNZOGRja0lwN09JbUdrSHZjOTdoSHp2MkdxMHpKQjRvTkdFRldhX0pIam11Z0Y4MXp4dUJZb2VOYkJQU3FQX1VXSE5vRy1acm3SAf8BQVVfeXFMUFJxSXR2SVZZaDREYTRLTVFlLW54T3A3YXV5OHBuYzZvblhIMDE4bENKSGJpdjhCeGJvaDNFUU5Tc2JTcEVFZ1RGT1F3TUktUjlsWFpnTXFRVUtnSFBYektEMU1GSVhqUTh6RDBfQkJCeTdLeENvR2ZQRUUzTzJjSFNVUEVSWDJPUW5fSmx0NGM1ZVVWaUtCNjI2QUYwV0VuTW1oUmxzNFdycWpsUUw0TE9Ld3dSRDd5T1hTRHRiZDk0XzRUTDNPN0stWnFNTVBVSGNFWUNFbXFfdGJMdHVmZ09BWFo2TVRJNXl2SFd2MDdLak54MUhqa3c2RlVXQUtV?oc=5",
-   "fonte": "g1"
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFVhcDBfS0lLVUVmdnFuc2ZuTVJtSUtlUWtRWnV0RnVpMzhhUGo5U2Z1UGMzMzJXT2FQMTFhdkd4UEFtd1MtTnpxMk0zSl9aajdtMjYzbG9lajJfSlhuMFNSYlVsU1hDc3pEZDdHLXVIZWhDUkFhOGwyUFlFOUZKcHJKWTZxcmVSbmhsY2gzREhlVmVnclpUMzV6aVN4aEtpVXc5Z21UUERLeGE2cnJRQXpuSGpFM0h2?oc=5",
+   "fonte": "CNN Brasil"
   },
   {
    "area": "previdenciario",
-   "data": "2026-11-21",
-   "titulo": "INSS realizou mutirão de avaliação social em Sergipe",
+   "data": "2026-11-22",
+   "titulo": "No Fantástico, Chitãozinho e Xororó abrem o jogo sobre decisão de aposentadoria",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUMtcU92MFk2Z2ZxMnNXejBnWjZjcWZUVkZINXY2WUE2QXVlRXpfMmktWlJVNzM3bkNvOWVKS0hJeS01SzVJalRhaUdMcFVobFBMczBhZGc4NzFkRjBaWnh6aFN2aE1iV2tBZW5RdjhNb1FIMVVtYlJFbmxNSFU0Q2tCdzkzVW96WTBOZjQyNXdHSmR5NFVocHBaX2FCMmJGOTJaWTY1NmV4d0JWa2NJX1hwcE5IaGU3cHNzenU5Smpid3Vs0gHTAUFVX3lxTFBrNmZLLXZlYVA5WGVMazJmaFA4eGl0N1FUY3hlYTA1QVJWem9lRFR1bFdMMWxCVkg3N0kzeXBIdVhqdWdxMml2bFMtOWstUGVYaG5mMlZ2eE9GQjQxcVBfT0VJMFprRHRwQ21RNHp2U052ZVQ0SEJOU01QTUpoQWhrRlZ4cG5pY3I3SXRRVDYwSG4xRktONVNLSzJEb2xEakZzcmc5UG56U21uOHp6dnhSMnc5d0U5VVZZMTVXMjVPazBhY3pvRXpXNU5iVzk5SERnWlE?oc=5",
-   "fonte": "g1"
-  },
-  {
-   "area": "criminal",
-   "data": "2026-11-20",
-   "titulo": "Justiça Militar solta 2 PMs presos por agressão contra advogado em delegacia no interior de SP",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS29PSzdJUjA4SE8xWFlyVHd1elppbEJJN1d4Uk1SLUZqNXdKUlUyUkc4R1JxMV8zTlkxZ3pCd0pGSkhUQUU5VUxxSUVodEZja2VNMGxxQlRrcUdOQWZUUkVMSlE4aHpma2hnbThxbDdkb28xbXlnTUNRS2Q4WTRHZ1BsRjlnblZVMVNoZG9YNFM5OWVxZDNHUUJFclF5UWFQekM3VEhjTDA5M2xVZV9uUnFaOFFFVmg4cG9nSTlVN21yMUhtR1lJRkprdTdfU1RpbHQ2a04wOEVMdGZNd2E3a01zcmxhYnhuSGJ1bTVRSXdfVDhwX0lKc1NKVk3SAYsCQVVfeXFMT214d1hrS0RKdjB3SW5jNE5qU3VRcmotb2pYSzdaZUJhcy03NDNzOUlUSXYyX3pxVnp6dXFUa3ptTzVtY3h1amRfb2VMeVBaWHlLYVFrVm95QnNzYkstRGxVNmZiaDFSY2pSUEwxdU0xN2QxWU5la3J0dDlRY3UxVEhlUS1ZZ1pWVlJmN09ySXE3Q0JNbURSc2RReklyZWo0V2JzWGR3N28xNVc0TTBoODM3Tl90Sk90b0VpUk9oMnRWTDhPaTFQQXVXeWUxeDl6Y0dCVmtQZV9ndUVqal9vcTgtbDdNenNxUlU1Z1dSVXFnRkdySmk4YjhWOEt0Y1EyNm03ZFBLc2FLMm44?oc=5",
-   "fonte": "g1"
-  },
-  {
-   "area": "trabalhista",
-   "data": "2026-11-20",
-   "titulo": "TST define regras para cálculo do adicional por tempo de serviço de empregados da Caixa",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTHY4TjNVSTZod1hZNUYtbXdCNHI3VlBZeUFBQUlnRmhTMjRsRC1yd0hTeGFMWFdrNllwNE13T1pmMmJuVmVoRmxvNDhEWF9GQTl3NEdmblppUGJlekpqUERPSnAyN01XaDdlVVRZbEM0LVVOZzc0V2QzNUFhVzY2NHpaZGNWb21HNVFCM29zV0tBNDROaGZRNXpCYVBhZUhDSlFBNXp3UjY0bzdrU29yVU5lSzRhZlBZanlGaTZ3WlRhYkRUamRLSVRIZjlJZjRjdTVCdXRfQXg5WUJGTFF2b2o0dk5jVkM1bjQ2bjYwUjfSAf8BQVVfeXFMUHlRYkhIeW5xRV92MVpta09RaHhnQmkzbU90MEdSVW5sRFR2UFQ3UVJSNjhfQnJqQ1ZKRWwwanBuYjVseUwxTFpUa0xfU0NYTDlXSTdpWHpVTmY0bUpRWU5BbUtQcWw3Y1V5WFhuOHJCd2loVlJCa3F0clA0MldzcWEtZ2hBYjRaTVEya3dCblFEdVhyODFRbS1TUkVYMHllT0VtUFlOaWNKMHlNZmhKNWxjb2tfWUxvSUxyMS1zcmE5Y2xaSFF6TjZCNjNsbm50bzE3SVdFX3h6Y2N6ZHFTSGp2Nm8zcHlEVDVOc0praEVxXzQwTk9ENDdXb3VwaHE0?oc=5",
-   "fonte": "Extra online"
-  },
-  {
-   "area": "civel",
-   "data": "2026-11-18",
-   "titulo": "Fortuito interno - responsabilidade do fornecedor",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb0VGS1BRRnYwM3M4SGRfQTctMC00bGRzS3Q0Rnc3cEdOdl9TTkF3UUZJbUJFRTVVOEs2OGpUcVh2bnlIRDB2T2FBYlJGYnhLbkVxMEY5dVBjeDkzRmtRX05pQXJLcHV3aEFXYmczQUh4a3BQZE9IOXM3QUJJc0ZXZi1zUm5VYVRjSFhZN3djbjExeDhWNGRqdTh5bXdHbU84SkZ0X3BhSmZUTGVwMzhMYTdoTEQ3NV9JNFdkY3Z2d2szZWJqWEZGX2RBZEdYZmpRNk1paWRXSlQ4aHBVNlRldHdwZTdoTEJ2a192WE9iamVGOW8yNkV4anAzLVBMV25TMXpKVmlB?oc=5",
-   "fonte": "TJDFT"
-  },
-  {
-   "area": "transito",
-   "data": "2026-11-20",
-   "titulo": "Prefeitura divulga lista final dos aprovados na 3ª edição do Programa CNH Social Recife",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVzA2azNpRkFYRVg2SEpFVHM4MXhna2xzQ1FPcmdSdjVJZmw1TE5nWmtZSW15Zm1ZdGkySk1xVC1zVUNBYVRlYkQtM1ktZFljbWh4ZV9UT202LWhpcDFHVXh3QUNjMl9fOElsclZ4VG1OTk52OUF1RHliXzRJSUtFc2xfSlhxd2d2cTU3WW9UUWdRVW8yaUFzUGVWWldaVkpjZGdnTzBwVjM2LU1tSEF6TXRnRUpJSjFjeXBCQzh0Y0h5UkIyUW9DQloxSjA3bEJ0TlhrZTZEdTVNdjVnYjdFT2g4NXk0Znk2MW00VHZKQ2dWX2Ezc1FzZW96VG16ZTNSYlY2bUdaaFNQajRidXc?oc=5",
-   "fonte": "Terra"
-  },
-  {
-   "area": "previdenciario",
-   "data": "2026-11-21",
-   "titulo": "Lula afirma que não haverá mudança nas regras de aposentadoria por idade",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnFqN2NyaFN2RkhTQWx5VG5WbkJOdHVYSTRodnNUbGxrRkliWlVIalM3TWZpTE9XM0U0NnF4bDFIU1FHRXFzS3FtTlMtRXoyT0xlaVRabUw0M1h3V3VtYUNra0FRRDcycnhUNG9GTm5VT1l6aDJ5NHhtN29xRTBYZjBVMU45ZXc4WjVtQS1oQVE0SWd4UFZsbmhybXc1RGp1WVNDTWgza2s4UQ?oc=5",
-   "fonte": "Metrópoles"
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaHpScUpiVjR1b3RVS0gxR0huZ28zekxHczB2dlgzSWdTN3VzV21iSjR0ckE4Ni1Mam9qUFk2OXYwU3ZNZzhWcTFWVnYzMGwtV1A4TExQTzFsbjNKRXViRGRmVERNV01YNjRVOVZhUVc3bGFvRWs1QTZDSENURnRURm41ZmV5OU1nY2dTSkMtcURBa0VscW5iTUNQbDZfNVB0N1NZM0M5S2lkNnU5cWhaRjBIRGE2NzlSaXBmd21Sd0dCMHU3YTB0S1A0eEloTjNI?oc=5",
+   "fonte": "Notícias da TV"
   }
  ]
 }
