@@ -1,212 +1,244 @@
 {
- "atualizado_em": "2026-11-24",
+ "atualizado_em": "2026-11-25",
  "itens": [
   {
    "area": "bancario",
-   "data": "2026-11-19",
-   "titulo": "Banco Central muda regras para incluir cooperativas no mercado aberto",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFM3Mmg2bzVqT003QW1TWkQxMk9SN2V2ODNHOGJNandJb252TUsyRDFoQXlveVVfcEJrMDB1SDdUY2ZvVXU2eE4xdWdDVVR6RDZ4dVF3eU9tSnJtS1YtbmdTRUE3dVBlc1RIWGk0UnpxdkJRNDJ0M1AtaEpFVWdZRy02M3JCZVpwU3AyU3RXaFBaT0dIT0VhQS1fODYtcF9RSzFoVkQtOEdzeFdudXc?oc=5",
-   "fonte": "UOL Economia"
-  },
-  {
-   "area": "criminal",
-   "data": "2026-11-22",
-   "titulo": "TJ-DF mantém condenação de ex-policial por perseguição virtual",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFdaMWNqTjVQSkp3X1dkTWxlVG40cklCYm9HQ2p6UVh5c0RoWFJsMjR5WlZGT2gtR3RIUHBFZEpKSjNjc1NHV2J1MTNHazhqLUtFMGcydE5tdHhUWkJrSXdSTFRvVko0OGtlakhZU29ONU1nS2NpQUlRTVZBUEJoWUIxQkUyMl9fQzZKWFRERnFKdzJWNlZlLXVzajUxQQ?oc=5",
-   "fonte": "Consultor Jurídico"
-  },
-  {
-   "area": "trabalhista",
-   "data": "2026-11-22",
-   "titulo": "Empregado que recebeu uniforme usado e largo de ex-colega será indenizado",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLU96c0xrd3dQZmo5blZ2bzNOZTdrbmVUTTk4RDhCUmgtd0k2ZkVzWDk4aGxKcnNiUkUxekk3Qk9vMGRSc1cwMURHUjZUdlQwdmRJb1JRelRWWTdUM3RrUnlNcXVfdFV0T3dlQ1ExdkZEWURuT00wNWFZbzIzM1Jaa0dSQjRMaUJTRnAtQzg4dXN3RVhxdHFHV1NkTGplZnR3Mk1uZ3REWmtUUVhs?oc=5",
-   "fonte": "Consultor Jurídico"
-  },
-  {
-   "area": "civel",
-   "data": "2026-11-23",
-   "titulo": "Sem prova de prejuízo, rede social não pode ser condenada por desativar conta",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXFteHByNWdISG81aXgyQ2NsTjlGM1dtOGdUS1hkVzBoUzdpbkNqdmthWTFRQlg3NUxvOGQyeEpFZ2NTUmVVSWR1TEgtT0dMNmtKdTdNeU0tTHlpd3p4V3Z2VGlLWEdCTHJLZy0yWWVSYUlIN1RkWDJ4dXBLMHRKdW1ZN0pxTlF0c0tTSF9laDN6Y2RtSkFuc0dNcFQ4NzRCYXM1MjVYV0RIZ0dRU0x3UQ?oc=5",
-   "fonte": "Consultor Jurídico"
-  },
-  {
-   "area": "transito",
    "data": "2026-11-24",
-   "titulo": "Pátio do Detran na Zona Sul de SP fica alagado após chuvas",
+   "titulo": "Banpará é alvo de tentativa de fraude via Pix em conta vinculada à Sefa",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1BPMHJpTWI0YWdyWXAtVENqamJaUl9YYTh1Q3RwbGdTT2l4TU4xenN3dVB1VVlyMWxpeVVSbnVndnVHWEtBSXNCbEJiTDl6cDdWbGM0a1ZfSzFXQzlmYmRTTlNOaEo3NG9NbTJqaE1pNHNJemtMcVMxUTBKbVhBaVBwcUlabURsa1hyaHJGYWRRbzJZM1ZOSVFqaVZYby0wRmZYX0FDY2pYNXFrVnVYa1hVZksyU2F0VHpSdG54ajk2QdIB0AFBVV95cUxORm1tOHRTOFJBQVhha25xOS1sdlJ5REhZc1prNFctUVI3SzhsU3NhY3o4WV9mbTdYSTBBUWJ5LVEwMU16NHhpeUNwS3I3Nks4ZUZmel9RclAzMUtVdWtZZ3VoRTcwSkJSOEpwckdNMU1YbzZqZl9pZUdjSTloMWZ6UVl5S3VYWjAySU04WkExZUkzcWRLTEJ6Unp5ZnI5U0w4dGVKbm9MMzl2eFZhUWVXVVFyNjl6TWRoUUhaVzNPSk5zUW5GbWtLZkY0S3hXZ0Ri?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1BuWUpTQUZ6SVVYMXNfQWZIaS1DdzVwR3ZXOXpxNjJ2OVpfM3dNbGN1MmU1aVpGOFRESG9DNjZkNVQ0bVVSWnRyV3dvN1VPTWlMTVB3YktSQ0swaWdaQ210ZzdKOGFmU0MwbEF1MUdJOXFFMEhaUWhwM1hEd1VNNXJ2Rk1OTmJmdkQwMkNSOHNCNFVtcGxfTVNacnVpYndNWkNXeXA2bTA4NEVDRS10VXlIVGhLNHRvcThfSzVidjNBQ0nSAdIBQVVfeXFMTThWNl8wX2dTVUVUc3VIb2lYc2ZCYUxEOWJNR2JUV093WDNQNC0tVGlhOEV6TXhlQnQxcW9xTERycl9rR3ZndzhfZUFzRi1sblRpZXBZaVF3VEUyakstalBHN1RpOVNhNk01YlBTNU5UTFBaWTdKMDBJSVFBN2ZRTDN1b1RvOUUyR081TEVWMllmb3hhazVFQjJUT2RhRDF0c0h5ZzB2RkFSeXowNlMzd3RPTmtvSGNvR2RkVkJGNTNFU2hJYXp5ZzNmWDdoWVFVbjRR?oc=5",
    "fonte": "g1"
   },
   {
-   "area": "previdenciario",
-   "data": "2026-11-24",
-   "titulo": "Como a Alemanha pode ensinar o uso de automação ao INSS",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT09hN0dBSFJaQ2J2M3hfQTNBWjVJMGQwVG9udWl3RjlLVThFb3JETGpiNGpKbWNIUFNWZEwxcnZqVTZtSXdFQzZ4NTZrLUxIT2R3d0ZHd1NaRGpnTzNyVkl5UXRCX2xxUmNkZDA5MHZJZmZwX0ZUOTNhdkY0a1Uyd0xRZEdpMEd1Q1NGQ3BUQWVzMTRLb2c?oc=5",
-   "fonte": "Consultor Jurídico"
-  },
-  {
    "area": "criminal",
-   "data": "2026-11-21",
-   "titulo": "TJ-SP condena homem por injúria racial contra porteiro de hospital",
+   "data": "2026-11-24",
+   "titulo": "Justiça revoga prisão de homem acusado de se masturbar em academia de SP",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXYtTjBMRkdPNjc1WWFsTjBBeFcwLXJFYUg2MjZhaW1iZG9JeTgtTExLX1ZmcFJHWUZvNGlCR0psM0lNeFpnYjhUSV9wTFhjTVNmRzFjSmdNaG5ST1FtdzZZT2VKT001QlZrdzhYRmlSeTBQdTkyQldrTE04QXVfZVdUUmpnVHVOdW9DZGRNbHJuUW5yLUdBQzBsdWNQTndPZHpN?oc=5",
-   "fonte": "Consultor Jurídico"
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlU1eklMUWc5UlRVQUJnM3Z5TXVSd3Yzc0doWXFuNmFESDI0QlFzQ0t2YjJCQ3hmaFVadXZRYmxXRXNkWEhQa0s3My1tNnFfODZEM0tmZjRtbTI1alhPZWQzdkU3V1BIdzgzRlh2cDAxWDZkWkdidGljSzhFQ1FrUmJvOHZ3U3VGQ0tGTGpzNmE1OS1iRi13TXQ1TjdhMy1nLTI5c1ZYdWRWeTRVSHc?oc=5",
+   "fonte": "Metrópoles"
   },
   {
    "area": "trabalhista",
-   "data": "2026-11-22",
-   "titulo": "Empregador tem obrigação de coibir apelidos racistas no trabalho, decide TST",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkhQVUhQYk9RcUp1OENtY1NCVzBKWnBpQS1ScXBGSUN2WW1kYUplVU1HLXVOYVA3alZSRHNFR3EyLWhJUTk2LXZiTFAzelBfOVR3TnlYblpKLWV4ckY2QWdZYnlfVDRzZkRPb2hBX3g3S25jMHBoQ3QxNWU0aU1qeWtZbHhYelpzMUlveGRCNW5obUxXMlJKZHF6Y2FjX21sQTVuMHRwUTM1Q1A0TWtz?oc=5",
-   "fonte": "Consultor Jurídico"
-  },
-  {
-   "area": "civel",
-   "data": "2026-11-23",
-   "titulo": "Contenção de vazamento não afasta indenização por dano ambiental, decide STJ",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU19NRjVkZlg3b0ZhY3JBdFlOYklYQXpPZjVGS1JJM0VkeWkwTUZ6LTloRW5HelVrdTlhY2VHSTJpVUNnMUJ6c0ttVGFIX3RCdFhxeVZ2R01GOHF0VnNGNVlWNTlyMW5oTmZ1ZmxodGlZZHVJQU5ZS2RDQ0hfNVdrV3h1YjZoSThSd2xzUmxvYkh0djhsdGtFc3IxQ0t4NWVQ?oc=5",
-   "fonte": "Consultor Jurídico"
-  },
-  {
-   "area": "transito",
-   "data": "2026-11-23",
-   "titulo": "Motociclista sem habilitação perde controle e morre ao bater contra poste em Várzea Grande (MT); vídeo",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOHdNbWJWOVBQQzFSQmViYnhpRG1oT2tER0dpQlBXbzBBajM4aXFtZTd1TFV3UHZRMWF1ZzVwUEpJdWlHd1BoSFpYVWpGMG02VmdIcG1wbVlmZ1N1Q3lhZkhEMmxBYzRQRS1KQkowcS1sLUZKUklRVjlBdFAxUzMzeVRYWENwYU1CWDNXdUcxRFJ6R0hvWXQ2MFBZQXV3LXdjOGpUdFlNR0EydmljM2JON1NBZFVObzI5Mlp4WFVDWVVWQnh0b1hpOVhOeUE5M0VPVzJSamxWcDUwQzJVT3hpQU50MWVyellEZVAwUWJYcGlQUGdRdzNZTktJYkVMblhh0gGPAkFVX3lxTE5RaWpUZW1Bczh2SG5hamRJamdNa05ZRC10ckxZUDFtSmItRnBHUGZRRS1yMERYR1RkbWtoWFpuVE80Y2tmYjZnaHJSUHAyRUdzcHRYLVp3TzFMdVNCWGdhcmloU0ZWUVFHYXJCeEQ1TGFic2lzaTZkQ1hoc241QklsdURWVlF2RGtnb0txc3ZFM2d1SFZwcHljZmR1RzRHR0JuclRUWlRzMzRjLVd1WURfdGpSSmh3YWU1M0ZqdWREY0dHdW5XZ2hhS3VRVEphTWN1YUk3LU5kZE40YmpsZG1qWjh6ZE9KclhjNFJnTnpYam9NSGpRbGxqYzNvd1YzdlJ1MlNuR2dELWpEMEpldVk?oc=5",
-   "fonte": "g1"
-  },
-  {
-   "area": "previdenciario",
    "data": "2026-11-24",
-   "titulo": "INSS começa pagamento de novembro nesta terça-feira, 24: veja quem tem direito",
+   "titulo": "TST limita incorporação de gratificação de empregado público ao período anterior à reforma trabalhista",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmNaajlhNTBGNWh3ZTB5TlVEMEhkUGpLdmVIUk5NaHlsRHhvSFVucjZ0eFlWNGx6ZC13NDN2RlprRl85TjJLTHdBMVhTcjNiRFJIWnZpYXVHOVlwQ3dJOGtsTnVodnlZMUNSUGQzNjFRaHU4dFlLbVo3V0ZmbGdZRjlsSXdNQlFNU2kxLUJCNkM4RUNpaGVYMU54Sk4xYjU4ZFJMSklNLVFyNVVQODREdHFZSQ?oc=5",
-   "fonte": "Exame"
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONFUyd2xWdXdkOEQ0VUozNmlJeENiYW5nOTdjSlN5ZU9lR2Y1cllIY0pBbklGajE0N3J2WHRoc0FseU0yNC15bWg5NUxNT2JwTmh4VmM4aTNWY2hHbmxFWXZfQm9fZkJfQ194X2tjaUoxM2RFeFIySFdkcS0zMndXcklNM2t6TzB0OENidGxGN1FvVVFyXzNESWFMdWRiMzVSbURFYjRmTUUxYVktSVVNVWhGTHVYQTlNUlBaaTA4MkRHUlV0eDFBNGw4QmlhQUZ5a3JtT0hDQm0zRC13ekJDcE80YTBVTkdhNW9XUl96Z3VxbXgzY3hwUHdWZWxwdnZlWUJNWNIBkwJBVV95cUxOb180ZGdlNGVhbkhtZ3dBWjdzSnFNSVd5SDFUZ0RPLTlvU2F1UEFOeUpMblowcDNKNnMxdGV0OHR6SEVzM3lya1ZMMGRvRzJ5eHhNSFNLZTRJS0t6LUNvb3EzZUV6MlFEdTFFQUVKYXZPc2Y5UzRNMERqaU9fMF9JRXpQYnVtYW94SUMzZ3VkREY1MWl2YlIwZk9NcmpmTUh3bkVoUExfQWJxRXEyYTFIQ0Y5S3QycXRzY3ZPam9TdllZVDB0MElQM1p0S2diZlJVZjF6N0tJOEQ4NW1tRHBWZXZiNzBiMkFMeWlEOUQ0c29OTEExUXM2NWxWbkV1M1pmd04xdzN6RWVRbEwtdWRkOEtobw?oc=5",
+   "fonte": "Extra online"
   },
   {
-   "area": "criminal",
-   "data": "2026-11-21",
-   "titulo": "STF: Placar chega a 2 a 0 pela abertura de ação penal contra Marcel van Hattem",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaElfUlFVeDdIdHJHVE53X3dnMlRYUkJDU3FCTm1ZMlZSbXYzTjZ0aXhaR1pfcmo5VDBaUmhDdGZRU0VmR0hvbTQ2dGNIdV9jNGowaHBBNnRHV25rS1VMaHJrWUlvaEhKNW9URE1UNzl6R3RZdjdRU041MXZkaVpsYlAzRTRnaVd2SFk5bHNSdHA2dXFrVDhJdGU1bTJtY2N4VFRQT1Y3R0J2c1JMdlRpQVM5U2tRMWdDTFdfQXhsUS13M1htLXY2ZVNnZXpOaTZKb3pXZVVQcEFBQWFNMEVCeXNZUGZsOEt0NXZSVjMybGVDLTVWYWM0?oc=5",
-   "fonte": "Terra"
-  },
-  {
-   "area": "trabalhista",
-   "data": "2026-11-22",
-   "titulo": "De dia CLT, de noite músico: grupo de pagode enfrenta jornada dupla para viver sonho na música",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPa0ZhVWtaZ09GNjBJTjVGZFVsN2M2RjgwUm5WeWtkZWVjbHhWQ0FuQmE2SG1uNkFUb3Bmc0dtLXg2ajVTWF90U3FjNkdmZFJTcmRkUE1nZWlzZ1lsYmRhTWRNTnd1U1hUNGFSSHlQZWt1T2dDRmVUbG5zRDhHY1ZYU2dscDRsZ3NUUDA2WHQ5RUM0OVpJWXphODFuYkRJYVlBdllKRTE0d3RaRHI2b2J1QXV1aklSYWxfQWNxZV83RFpuVXFWOWtxUjJ1NXJpVzBVRE1PbmVfTExlNFRRRGQ3RHNqaldxLU5xaXYybE95RVpZZUJDRUNTUUFtSDZDTUhrZXo40gGSAkFVX3lxTE0xemwtRGNXdm5FQldFSkFUTmZxdm5CcjFYSTVodGhoanlQR3lTT2hIUFlUX1lPd21jLWd5VDBKSE1McEdnN1IzOTVWSGpCcmNpQmZFREFTQzNyQUlPaDZod1Yxd2c2TXFHbHE0OWtHZkNha0p0SWVlbWhYTkRtLThiTHZvQjdEdUp4WG0zYnBVRWFvRE9Xc0haV1VZVGZFRldqVXpwdTZ3SzVrSDVoYnZIdFdhTVd2VG1KaEItMDNzMzdoY1JFT1JQZG1YNnVjQkFVNHRrcXdJaEtOOWNZWHF3ZGFhZWljb0FLbjBHenVBNmxiSmZMbG1PbEFvZ0JVQXhrSEJBR0RsWEJQUHhVcE5UNGc?oc=5",
-   "fonte": "g1"
-  },
-  {
-   "area": "civel",
-   "data": "2026-11-23",
-   "titulo": "Empresa indenizará após chefe dizer que negros lembram macacos e que tem nojo deles",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQU95TGFsZXZ5SzhNSFFraS1XbEpvNTA3aHFNWVowM3VSY2tRdXkwcGtCN0laN1NSWFpFLVVhRTFFZkM0aW8xb1hEMk9pdzBBVHQxQW93alh2Z2RaanhMUzJzVFJzSEFGOEZ2RDZ2VERuS2QtTU9keFU4VEJtU21HMENIdWNyZFFHcDZTQjRJYnRYSF9WSFBaS1ZtSmZGaFdXSHBmSVRwa1FHUmpLMnpEMzN5bw?oc=5",
-   "fonte": "Migalhas"
-  },
-  {
-   "area": "transito",
-   "data": "2026-11-23",
-   "titulo": "Operação Cavalo de Aço flagra 15 condutores sem habilitação em Cachoeiro",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVZFVHdQdjl4cG56R293Rjd2V1IwdHdpMmxxcnNTYmhHUnJrU19QR3lxdlBlWEJqU2FlOThSWER6N09aSG9rRzZGTGZnRmFrTV84YXNDOHM3YUVNRnF6SXZSWlVUdFVoeHJfR0dNVVRsY3IxRXdGX0lfM3lJa3FWdC1WVmdSdGx0V2M3WTZBeEpUc18xWW1sMVdVNGJrdw?oc=5",
-   "fonte": "Detran-ES"
-  },
-  {
-   "area": "previdenciario",
+   "area": "bancario",
    "data": "2026-11-24",
-   "titulo": "INSS começa folha de novembro nesta terça, 24; veja quem recebe",
+   "titulo": "Conta do governo do Pará em banco do estado é alvo de fraude e tem R$ 8,5 milhões transferidos",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWxSb2h2Qm5HOUd1V3kwaVVVZy1VM2w1b0ZxcFM3OGVNNzh3OXRuMzlsai1HSzFSNnh4cHFJdUIyNS1NMElmaW04dFY4QlJPdkdSS1Rod2dJTUNXcEVtSGRoZUdrejQwbThhYkp2Q2pabHZFa291Q0JpRzVzV0R6VHRUbThNTU5XYnYzVlg1REJjcS1DR0xkVEk2dWJZZThnZnZfOHBn?oc=5",
-   "fonte": "Exame"
-  },
-  {
-   "area": "criminal",
-   "data": "2026-11-20",
-   "titulo": "Trump diz que Tribunal Penal Internacional está 'fora de controle' após cúpula com Xi e Putin",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZnhZOVhSeGxZU3ZIM1M1VUx0VmIycUlVR2lEWHFxazFhaUlhelZFUGNpWDk2VDIzRHY1em9FQWxqa1ZSa2w4X1Exc0JNQWkyZGQtU1kyeFJEeW5tVHRFdHlKdjc2R0UzajdjdWk5MHdpQVlGYU9hbEpaeEtWMGZ6VjRJMjlYaERaVjgzWUpKYmVaZlAzUkFJaHB0azZpVTRXYk1EVkxfS19tN2YtODdEbG10QlhqbTlTYzdjYVJBYmFBVUZmRW0tdk5GSEF2bHdNQnR1N0JMd2xLd2lQUDBQM9IB7wFBVV95cUxQUlNVcUhTSmE0YW93WGhzR3A0TlJ1WXY4dnlqcENzQWtXRHhPQjB4Q0xia001Z0JZVkFJQnJMdk41X3E2amROQ24yeW1DSDFmbjFqYXZudjlaLUFZaE90d3hWVEpnNUkwMmJRNXVhMDBvakd6QkNpTnBJN0V2bVR4WkNNakYyQko5QzJ5VEpMTjQtVDR6X3MzV0hWYlh2N215NmhuWE5HNFpGRmJDQVBvQVlucUw2OWN6Rkk1YVQtbW9kMklWUkZkTVRQOV9LRWZvV0E5U0kwN1U2VnhNRXJXNGl6Z0puemZsUk1zOWtNVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTTdTZ242dEN1VnVyWlhYYlhFNWVuSE5IdF9kMjE3cVJKWUtiVlpWekdlZHYxTU1RYzFMOEJ6UWluS2tqV0VlTGpYVWRZbXUtNFNfVFhoY2l4UHhScnowQjRYNzJqa2cwcmJfN0hSTlo4UmdQZ1FvcVU3cHFCTHNMQVNuSjZpYU5DZXFSTndpejFORjlZbEloSW1hZnB0T0NxMVpJZjJWQXd6eXNTRThmRENrMXVTbFZ1c2xxczZyQ0dnTF9NbnY2QlhjdU9zRHFlVEpWc1BPbk8tdWJIN29Eb09rbzI0eHpkX3VV0gH6AUFVX3lxTE5DWElQdW1ENGpoZk4weVlNUk5Ja2FxRTUwSU16U2VCM2VUTTUybXJURFRFQ3lWb1RlSnlrYU1CNHE3RHZNRFkxRndqSU1PZUY2ZS0yT0VxMnN2ZkJGTE1qSlRVdlMyTmcwOU1RU0JMeERTYjB0VldENjNwWlozWkhxbVhjTmNhSnNDQ21tMy1vR25VRUowMTRpYzFCT3F4enJuVk9FVktMXzFiOHFpZnVndWU1VUs0ai1Hb0R2aHNBMUpJRTlpSWJDSHR2WHNpVFZJT3NqeGt2WmtjWUM5WXp2NzRGbTFST2pfbVRXaG56UUxRYXlCaVJaX1E?oc=5",
    "fonte": "O GLOBO"
   },
   {
-   "area": "trabalhista",
-   "data": "2026-11-22",
-   "titulo": "Trio de pagode divide rotina entre trabalho CLT e shows em Rio Preto",
+   "area": "civel",
+   "data": "2026-11-24",
+   "titulo": "Empresa deve pagar pensão vitalícia a consumidor negro torturado",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ0trcEh4bTZmTVo5UUtPcGtmT2dsQjdSODl4UF9YZ0NRUDV1U1YxOHN1clBnMEtqMlBwYXJiOWstTGM1WHBjQmZKQjItQXZ2SFZ4elFqR0hST1NNYkY4VW5WaVE1YWd6SDd3dEFVWFV1YU1zMm96QVkxdDNxak4tT3UyblotTFliQk9BV01WS0RjRjBwNzVIWWtlZGNYSXg0dVRSN2RDallITUlTdzhnVzdIbThzSHNnLUxBRzg0ci1jS2pFUFN0Q1l30gHYAUFVX3lxTFBNVUNtc0tVSU9fZWg5QjAtV0VYX1dtaG5kakQxMkFXZG5TQWtwclJfaGg0dFN4eWNldENPOWhiMkZQZnJIRUxmeUhRWlhGdk9ZTVFROXljSlA1dzhEMWhjbnFWYXQ4cnJSUGJrSmNFcnAxR1lmcWswMWdlU0paNmEzME9NdkpqaGdRV2FJLWVkRTl4TWZYbTZNaHpsVmtqb3FON0tWbGVwWHdmTVRyRTN4aFJoMV9QTzBjMTYyUXRXX1dKMXJROGZNWkphV0hCamc3THJlOTA0cg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYlFZTk9OdzJPZ2pmSlc5LThGblNJMC1xNUdZYXlINTI0YTA5NnNicTdiQUlhVlAwbjMybVd1NFZwVzlUT09fdjJLcURxVFhsLTlzWlQwSXR4VlI4TzNaMFhJdEQ2cjlHRTV0UzBLcldhUWhHMW5YTlhUYnZKcXVzNGJHMHl6OERjRTBNbTYyNW5rT3liYS0ycFVLemNVN2VxLWlUV1hQTlFYX2ZSaGtF?oc=5",
+   "fonte": "Consultor Jurídico"
+  },
+  {
+   "area": "transito",
+   "data": "2026-11-24",
+   "titulo": "Campanha Caixa Encantada arrecada mais de 3,3 mil brinquedos no Detran-MS e abre nova etapa de apoio no interior",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON0dmVUhOd1NORzVvQTdrSjEyaU1nbmVESy00Z1lnbXdlWFlfejNyZUhFUW5YcHVKN3BEb2wyN3FMNFVDM19aWUtibXlQZUFWTDd4SmtEY09nd0dTTmZhdnU0cHdhVExRYk1GT0VhNkJYVDRqbmN3T3Zja1B1TU9sOUE3WVZnS0FMeVB2ekdvUExhaUVDZk9SY0h4OUxUNlhsdHF5ek02VFUxU2YteHdjY2F2SHF4T3V1TTdhRVZvc2Y3N1otVC1RVVdkWjM4RG5tSzhsWkdxRkI?oc=5",
+   "fonte": "Detran.ms.gov."
+  },
+  {
+   "area": "previdenciario",
+   "data": "2026-11-25",
+   "titulo": "Projeto de reforma da Previdência em Campinas muda planos de servidores perto da aposentadoria: 'Injusto'",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMEY3SzQxdWIzU3ktX0x4SU95cmRFU0RKQ1R3eGFDUFdLRTRzUDZUdUVxb2xmSkEzTkdYVXJlR3hHWG16T0FyVE9sYk81Ums1X1hiTzlQTU42d3haSlZqbjJBN0NWbHJUQ3QtSmdPZ1gyMGFPMEtDaHYzOHBzU0xieHRSN01pYUV2OWRkLS1Ydld6Y3dmcmpJQUZBdGRSeUx5VzVkc2k0RkZ3S0piR1BzRHZBMXdTaWlDNk5lQlF0a2p5aTJrR0czYVhVbHFCVWExVlEwb2xJYllmYUp4UmdGazNmdGdQRV8xSUdXS3ZSVkJ0MElCVVN1VzM5VdIBigJBVV95cUxQQm1reXV0Mm1XNzZETEMzSEwzcGtzM3hLZ19VTE1WdGxQdmVKdGtrbHQwcEFVNzhvRTVuMF9kV3ZlTGpTVnhNbDcxZTJjMUdzbzhpQ1dkeTIwVDJrYzUxMW5MQ1Zlbl9YOU9aaGxRM1g0RWZCTzNDN2ZlVU9NUDNra20xQUtuRU8xMXluMHJYRHgwaHhxYmR2S0xkZ0V3Y1ljb0htYUhTeGZTQVdWZS1xSm8zSmpIZ0RiNjN4aGdZOVQwU2xON3RPb0xldzNIODluRi1GQjJncDFEM0M3aUdoRVdRcWctOGMzbnNoamxzRTBkem54SFVRUnJRQ0x5SDdQeF9lZVlqOEpkUQ?oc=5",
    "fonte": "g1"
   },
   {
-   "area": "civel",
-   "data": "2026-11-18",
-   "titulo": "Comissão define próximos passos para análise da reforma do Código Civil",
+   "area": "bancario",
+   "data": "2026-11-24",
+   "titulo": "Presidente do STF determina manifestação do BC e de liquidante do Master sobre liberação de bens do BRB",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT0g0V1pzVVVEVFUwWmM4bFlVazNUUlhJUERVZlIxRnc2WDdLdHZ5dHg2UTFZWEU5b3dKZzJ1ZTlpVWpPM2FrSkp2elAxbDZnQjN5cFhBMkRfVjRZN05oMFRiVkJzM0hGNG9qbHBmNXVpTl9YNFhtNnRkbFJHSnJScDRsNmVlZFRJSU05aEl4R1hwUjIyano4cFB4c3B5eWJvVzZiWGc4M0xXUWRxRTZPaXFYR2JyQi10ODZGLVg3bWlnalNQVF9N?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMG5uZTNVNkU3eVFTa0FMU21XODRfQ2JxczhlcEdqTmh5YlJRbjRyMVFjdVZRam9EdDJqMklvMF85RzR0a0o0TEdLZnE3Q0tkR005Z2RhT1VQY0l3dk85YUpWUTNWcjJRZTlGQTkwVkRIWU9VUU8tOFpRY0YtdDRBaUM1UTdQRXJFcV90YlU2dUtjUlkzcWdZZndINENBcnFXWGluRHRnYmEyMFBROUF6LXIya05qb3VtbWIyZzdJM3YyTG05QlltXzRZMjNMT1YwS1dMeWxfVF9MMWI5MVFv?oc=5",
+   "fonte": "STF"
+  },
+  {
+   "area": "criminal",
+   "data": "2026-11-24",
+   "titulo": "Justiça revoga prisão preventiva de homem acusado de se masturbar diante de dentista em academia",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR2RqZGU3Q1E5R0V5emtVVzZoZThfNVhxQ1RWcklNZVZPVDNDel9HNW5GMmJEa09DY2xLMEg5X2kzYVZOYVU5ektTc3B0em13S1ZmS3BwWnNNV05KXzdpdmNRTmxBekZPUE1mYnRIQ2JjLUtWZGNLQ1R4ZXE1d2p6eXgtTkl4MG96RmctZlRHWjREOEVqTlJQdEtfeG1rbWtVUF9hR2N5OU1jakJjTzliY19kRXdtcGJWTjdIdDJRaFp5U2hBdG9vRG96cXZPNFVhZ3lmMkhfRG82QzYwUjZwLWgzU2c0RVA3RzZ30gH6AUFVX3lxTE1sYjZ3V19TdFRuXy1FY2hiZDlhX2RBUkcxWDUyV29ZdFRGb3AyWFpJY3hYX0hMVzA2ZmZJYXlKMzhzZkNvTUZ6TVg3VWozNXlfdmptZjNSM1p4OXBncm8yOC1YSXRHTDVqZXVsQXZkMzZ5WHlNS3hLX3dqb2NqNko5Y3pRNWR3eUlTekFxVTEwTFhhUTczcHJ0dHhycDJjUjJjTmNyU3JHandhQlM1RjdlLTAtYzQ4ZzUyeDJzUkZ1ZUwtT0FmeUJheXZKdHVBMEtGRnBlU2dyUVN4cE1oR3BCSl9fWlhpZHhGZW4tQVBmX3cwQy1LdEVneHc?oc=5",
+   "fonte": "g1"
+  },
+  {
+   "area": "trabalhista",
+   "data": "2026-11-24",
+   "titulo": "“Se não levar em conta o trabalho, não há dignidade”, afirma representante no PopRuaJud",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHYyLS1nRnpJa3pVNkNPSkR2a3pwX0g0bkFDNG1XUXBTdGJLSUVkU1NfTjEwRngwRThzQUt0QkdQQUhabnFGdGZ4eE5fOFJrQVBGcVplem9DX0FmWEI5UDAyOV83dzUzeFJObnF3cFFjeFE2OTVhdXpLQlctTEZ4UEs1ekh1bTlQYXU3Y1hfMjRVd29mS3hOTFJFTElSVUZpM2QwVEhWS0ZscnJk?oc=5",
+   "fonte": "TST"
+  },
+  {
+   "area": "bancario",
+   "data": "2026-11-23",
+   "titulo": "Veneziano contesta notícia falsa sobre fraudes no Banco do Brasil",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUNtSVVLZ3BIeG8zT3ZicXNrMUw2LW1ZTFp0a1ZHRm5Xb1MzbnV3NjVaalo5Sy1ySG54cjRQVjM3QVAzdG5FNXlzQjZ1TUY4RjBzMmk2WUpDeG9GdXRENEs3b190Z2VpYXViTjNjMi1Kd1o0anJOcG45T0gyOWhJc2dsNnVmbVRQMGQzMERmYlFRaDVweTkwcGdiZXBlcDB0SFZwNXl1dXJfZmFORlhxYmJuTVNMeElXM09WQzlrVQ?oc=5",
    "fonte": "Agência Senado"
   },
   {
-   "area": "transito",
-   "data": "2026-11-23",
-   "titulo": "ES realizará 3º Simpósio de Saúde e Trânsito nesta semana",
-   "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDAwbW9XTm1YbS1QaE9qckUtQjNmY0pLSHlrZjBtc0drdUxEcXhkbzBtZjU4cWRreG9oSF9PN2IyZGFJSUFocVlIS3VSOC03NWMzZjVnOEhuekUybjhLdHVrSmRxamJTc2piUWtrbWkzeUJENldMdS01Ql9CblZMS2gyUmtYd2twSEZyeW94ZFJmdTg?oc=5",
-   "fonte": "Detran-ES"
-  },
-  {
-   "area": "previdenciario",
+   "area": "civel",
    "data": "2026-11-24",
-   "titulo": "INSS: veja o que vai mudar nas regras de aposentadoria a partir de janeiro de 2027",
+   "titulo": "Justiça nega indenização a mãe de criança afogada em piscina de salão de beleza",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ0ZZNDRFWXB1RWhGU254V3czYzNtMU83c2xtN05NRF91Rk9uUmZ0LXFwcTBUVS03RTd3Wk5hZ0o3V3NvemJhdndORHJVR0hIQ215ZFBOc21KWnAxeTlGenliakdTOENqeFhmZ2xKNHRYMGdRRzhGNUgzZzJJbTRNS1JDSTVQQ2NXQjA2VEpyTFE2bDg3MHNxRjJEdTVPNUVxMW1uMURkOWNVZGpkZHJmWnhRYUpiTTd6UzBTZzF2TkM4OTZfaGFxaDlzdm9xdHFpZ29lSmRMMNIB5gFBVV95cUxPN3VKbFV3akZyY0MtME1PUnhuSHdCTW1pOFhyVWhjcGV5YWVsVllGMUFadjk2UXhrTG1JeEtvYU5MV3Nqd1diT0puVXAzTlQ3R1Zocl9pcEpGdTlzWnFQYjUtb1hEd180ODk2OTlaTFRuVTlMb011Q2kyTXRBd3ZBdWxxT01LSHNtUzRyOFJNY0ozUnNDaHI5NExLVzhsVU1vTDlXWTlneDdOX2FzcHNiNG1qckVhb1l3V01QNVhPWm9uNlotYXBXdWU3a01lSW9GcDNDRkV0akdNTm5lZVpTM2huamhCUQ?oc=5",
-   "fonte": "O GLOBO"
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeFJrQlVJQWRET3lYTUNhWXhFb0hWMWtxU1hUSVZPWFdaeTJWSEdBQjB0cXRjRVdGZWhFenJ2V2F3cnlER0owQWZMSUIwMC1XV2QyanROU3RFYWF3R09TVmZxV0lfNjBMaTlqU2xkNVktQXhkUDI2bkV4SmlQbEJzeWtrMUx4dm9kbEM0YzJKUF92M0F5eHhuVmdqSElvS1dodE02R1hRQ1ZFbXU5V3QxX3d6TVhGMXZTcjlPYmFIZzV0WXR4WHVFRnFVWWhqbVU?oc=5",
+   "fonte": "Tribunal de Justiça de Santa Catarina"
   },
   {
-   "area": "criminal",
-   "data": "2026-11-20",
-   "titulo": "Homem que invadiu ONG duas vezes e matou cadelas a tiros alegou incômodo com latidos; Justiça negou prisão preventiva",
+   "area": "transito",
+   "data": "2026-11-24",
+   "titulo": "Detran firma contrato de R$ 41 milhões para instalação de painéis eletrônicos",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUVBWYVlyTHVnM3daUlpkeDdrYlVvU3RwUTEzcUUyWkJDRi1uTXMxR3I1TEllZG9ueGVFazI4QjFUbW11c1ZNdkhxQWdhYkVRallTdmd0aXZFNlp6MWx0bGlBYWdMN3d2YWdnQWt3Z2NZZXJUbk1iaFJzb25ydmpScEhsSS1tbktGbkRhSVU3UUpwaDU1aWlXQWNnR0V5b19tcjItQnNvMjBadnh6NWtFZWMwNFNUZXY4cVBOMzdoc2dqMHpmdGxFcE9vMEoxYy0xQ1k3cjZqSEo2ZThVdmxUM1dWdFFPdFVHa1Bwc3BmUDlkaEp6VF82ZVhhbjBVelR4Y0dwZGhn0gGUAkFVX3lxTE85RkFqS2lRbUNkM29TamxxZnVmUENaSFB4QXVrTnRHQ0tFT01COHRPTkVfVXUzWDYwS1JtR2dfRTA5MnZkOUE4RXlEcjRSZ3llSndCUnNsVmlHSHB3OXFVUzNWSVpQa2FwUU1NZjJmdVpWMVF5emF6NHIzcHpXZ2RaeVZ0cE9oWGxReFl2Y1p2UE1lZVhOOF9LOVpwaEYyTEFwSi1HOHUzY2ZTeU1nQ0lzb3otRmtVek5CZVVIeklEVC03dHpPZVRESVFucEU1cV9LNDFWM0pYU1FxQTlLamdmOTNlY3ZpYk5Uc2lEalY1bjV5N2loajdVOWRMLUE1X1lYbmNYTEJZUU5KS1N2MW5ZLTZwQg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcE1EOFBHQTBPR1NtUkZteVNFTDlLSFBwQmNaQnk1b1JpSFZQTEcyeFBUNTUyTGg4Wkc3OG5fWllYWTlVSHVGVElRczYwOVJkWGtJQU96cmVpdUxaNmtubHZUUHk1TUI2NDN1cUFoc2dqancyR1RqS3pDTUNfbkRyNUxOdDRRQWdyRkw0RnhzWjFiZllGcGpPSlNpZHR5aVBNX3FkLVkxYl9OUTNkWERENEFBbHBsX2pCZlppZzRieGZkNzB1U2tSeWgwdFdHVHRSYnJoYllRejFEQdIB6AFBVV95cUxOME53clpoQ09xNEhCQ3NsclVZYUxtT013dV9STkdqcVlHRzl6SE5KcVVNMFZxYldrTGVIY3FYNmpBdk5JSWstX0xST2haTVlXQTdIZ1cxQm9Ob25JTFZ2RDlkQWl6dUV6aXZTbHEyTzdtUW5FRnoySDFJc3lqbXMwTUIyOV9VRG1yZDVQSW9vYTUtNzZJNi1Vc0UwODN6RG1BT3NyUE5yRTktR3BuVnpCc0FhZEJvWEFnSzhrX0RPM1RsVDZUOXRJLTBHaFhuV1VCNjdJMDZGSFhoWkpIMW1PSFZYa1hOVUM5?oc=5",
    "fonte": "g1"
   },
   {
-   "area": "trabalhista",
-   "data": "2026-11-21",
-   "titulo": "Consignado CLT é um mercado ‘altamente competitivo’, diz vice-presidente da ABCD",
+   "area": "previdenciario",
+   "data": "2026-11-25",
+   "titulo": "INSS paga segunda etapa de benefícios de novembro; veja quem tem direito",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ2FlQmF2T0hXbUNCTEZXck9EYXZUMDNkQUlHbENWOFR3Tms3azdBaWFfdGNlVXBQVG1ZMWt4X28yTmNfOU9zcTRXVGFaNGFKM1NmMkNlTHd0U2FXeUpuUkRudFlkdGIyV0JhUUh6NFkzYzJvNlUwbGUzZC12ZVY2TWpLOFE1Y1NJQ0pjQ0FDSzBWTUh5VmxTUUZ5ZGlZcjJKVTRQT3RuMC02NG95Y1B6TjUzUENTVmZYN0JvZ3ZYTWZnMThLVnc?oc=5",
-   "fonte": "JOTA"
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1dXRk5mMkpHWjVUQWpGY1RkbFdjYVdhRnVrb3VtYjhWMGNMSXNoVjBzT3gzbXZMbDdRaG9iRmxXTGhBajA4SDh2ZG9zRzkydWVfUC1rQTJoUFJPVXhjckV2Smx5dGNqUGlzT205VUd1M1NWNy04QjlFb1k4dmp6bWtOem92SnBQUHZfaWxGN2hnMUZaQmNMTTFpemFKZTI1NW1wOG1YaDJkR0lQcjFnTUZwQQ?oc=5",
+   "fonte": "Exame"
+  },
+  {
+   "area": "bancario",
+   "data": "2026-11-23",
+   "titulo": "Lula deve iniciar indicações para STF e Banco Central ainda nesta semana",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXNOWVJNQk5FQ19sckhJUzVSZWVxYUlyME5FSFd1b3Y2ODRsd1hHUGxKR24yUkpjN1dnZlR6czJYMmYtLVBQOVRQZ2I2X2NVTXM1dkc2TjVOQjBtZktfNFN4bEI3alM5LVlCMUppazg3bVR2ZWZITFZVdWQ5WDRkQ05qU0pyTkJlTDhibjVVcWVkSUswcEhrQWtVN1hiaUkzS0h2b2JCdkptUlZpNWfSAbMBQVVfeXFMUGhlMERvV250UEZNY1ZQRV9lZVFHaTRyb3pJdkZhcVpSRkJmRVgzekZGczNDeU9JR1BBb0FHT1NJbGxEN3d5SDVHbWVqX2F6QlpTLWVUM2RZX3FCcUcteEdoQ1h1d3dneEgybjJzRVJOMUFXV3M1R254M1ZFM0FwT3NvYXFfX1FveEFhRWFNMUtiNkNBZjR3QUpwUkJVN1NuWlVBaF9aZDBKVnNGTTdmaVlURTg?oc=5",
+   "fonte": "Estadão"
+  },
+  {
+   "area": "criminal",
+   "data": "2026-11-24",
+   "titulo": "TJSP nega habeas corpus a mulher que matou o pai e saiu nua no litoral",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOakJXdVJ2Tm9fSlEwSjFlc25EWDVnWHJpbHFfTllFRXBTaVhwVFRpRWk1NWpieFFUd2xfTTZGZVhnUld0UXdnMzZfTHZralRoZWRzU3BTenJNZUthS1hfb3BkX09ZZmZQeFZod1VQSkhYN1IxbkVoX29FTWR2aEtoQmdwNXNyN1I2b0dtQVkxc1Z1N0lDbnEzQm1ENHduNXBhTEVHNzI3ZjJyR3c?oc=5",
+   "fonte": "Metrópoles"
+  },
+  {
+   "area": "trabalhista",
+   "data": "2026-11-24",
+   "titulo": "TST fixa tese sobre adicional por tempo de serviço de empregados da Caixa",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjJzY3dyT3JPcDNnaUJMTFFscGdVZzNweUZLWXJIbF83YS04dUx0cm1VcG15X2hQZk8xRW5pc2FGVGRoN2IyR2RFM2RuZ2RaajF2M1VTWlcxQmpDV2RQZG11Sm54MXdoV3pwMHNEUEI3V18tdWJSRmhkSEtXVk5la0tFdkw5NUlxVE5hY255NEFSYWRRVU1VZWhuVFotdWtGWHBZVHh6T25YUGty?oc=5",
+   "fonte": "Consultor Jurídico"
   },
   {
    "area": "civel",
-   "data": "2026-11-18",
-   "titulo": "Fortuito interno - responsabilidade do fornecedor",
+   "data": "2026-11-24",
+   "titulo": "Justiça suspende contrato de R$ 8,6 milhões para decoração de Natal em Barra Mansa",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb0VGS1BRRnYwM3M4SGRfQTctMC00bGRzS3Q0Rnc3cEdOdl9TTkF3UUZJbUJFRTVVOEs2OGpUcVh2bnlIRDB2T2FBYlJGYnhLbkVxMEY5dVBjeDkzRmtRX05pQXJLcHV3aEFXYmczQUh4a3BQZE9IOXM3QUJJc0ZXZi1zUm5VYVRjSFhZN3djbjExeDhWNGRqdTh5bXdHbU84SkZ0X3BhSmZUTGVwMzhMYTdoTEQ3NV9JNFdkY3Z2d2szZWJqWEZGX2RBZEdYZmpRNk1paWRXSlQ4aHBVNlRldHdwZTdoTEJ2a192WE9iamVGOW8yNkV4anAzLVBMV25TMXpKVmlB?oc=5",
-   "fonte": "TJDFT"
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjVtQXppRzJsYmdQR2VCcS1JM3dkdnFIY1ZTN1VqSndRYjRWUGZ5MG1RbWNra1ZKdGJpcmVqWkw5SWFDaFpvNC1pLVdUaHNOZnZqXzlUYmtnMUJfakFSNUs2dEZmNTZlUHBTb05NOFRXbGQzLVpJUkMwR2o4Wms5TFNIZEhWZGpSdEREWUp0NWJ0R2dCV0MyX1QtMDRhd0Y3Nnl4d2ZkTnZ5aWM1cXY4VmRtUlZwU0xIODNBOVVmMGd5YmNtVW1WTGlxSGl6eXVtMkZ1eUtlRExUYWdZRHgxYm9BZVJUOUXSAfYBQVVfeXFMT2FxeEw1Qktacm1tSDNYNlNKSVlScEw4TDhFOWpzcHNCdkp4bHpCb3g5LW9lUkVGak02N01BYzh1SnEtQUpCUWxNRm12elhpRElYTk9tcHVpQ2FKOEtLMkNOOHJwRDA2ZkkwbWkyZDF5ZHVYWEt5QzMzX0dPLVZuN1pveUVPTFU2dGp6MV8tbzUzMWFJOENta05uUWZGUk5WZzdYR2ktWmVlVHEyM2dzSHpQcEhoZEVCbVNzZUlHTUswVkxFcFVtRTQydHBZekVXZk82THN1RjkwV1ZLM1BFOERjYUhtRDNQbTlPbUVpeWNybXBrR2Zn?oc=5",
+   "fonte": "g1"
   },
   {
    "area": "transito",
-   "data": "2026-11-23",
-   "titulo": "Sala de Descompressão do Detran-BA é sucesso na Micareta de Feira e se torna referência de cuidado para motoristas de trios",
+   "data": "2026-11-24",
+   "titulo": "ÁUDIO: CNH da Gente: classificados devem comparecer ao Detran até 14 de dezembro",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRU5YenY3SnhXSGJ0b2MtdGszZ29zSWtZV0J2ZzF4RjNiQjR6eXJPSGFfOUR5dlhtd3BoTkk4cFFHYXEteWxrQ1c4U3dWdVUwOXhHQXdzSHNrZGp5TXh0d3FoNWdVeUwweG1kSkotTnVxZnZ1a0t0aGRRdE1ySGVvclVJOWlTem9LVUFMSHpvSTdidFU1VGtTeFdQa3pKZkdoNTQ0VktRaVNXbER5N1FIVHFFSkVjdFNOU1JkVnllY1U4SVg3enc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOanVSVEo1N01XUF9NQnQxRUFERWlOdEpORnBzTzNiRk94azAzaW5TRTZjM1g3WU1aUWgwY01Fb1JHZHF6bmxxV2ktWlVwOUZUVW56ZzE4a2NyZTRvN1RPa09JQi16dEI2VzB1eHMyTUFIdDFDUHIzUTlsazhtRWpmZWdhMG0wQ21iY3hBU2pnNk00NnRUcTFqSmdCSHlSNEZLYm9GRkplZ2RWTVlIRGtKbmRJcWxCQVR1QUM1WWNNN3ZrZF9mSnc?oc=5",
    "fonte": "ba.gov.br"
   },
   {
    "area": "previdenciario",
    "data": "2026-11-24",
-   "titulo": "Chitãozinho e Xororó revelam planos para nova fase após aposentadoria dos palcos",
+   "titulo": "INSS começa a pagar décimo terceiro",
    "resumo": "",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2o3SjFldjhHX1BfMWlxOEl1VWVJMU81TTh6LXpjSDVPZmsxcW9Qb1hMWDVESDlOS1h0UjNRNzd4TzFTT3JmVmVlbzAwV2RUcFFCRG95SmF6aENZOE9icHNwLV9UNGd5eEFqN1JsdXFQX21zajZncWhYOWJvbWpjNkdZejBjbUx0eW9vaEFhbHU5eXNMMHp0UnRCc3lTYTE4QjJGTFhfWEk1YzlpR0NHS01UaERFa2VPaGlvVl9mUFBSZnhONU1aZ28xVFRKOWhXWGJJ0gHiAUFVX3lxTE9yTWtFTDhNZzdMRkxLWjZNTl9BcHNuX3dUQlVNUzl5LTItN1ZMTkJlV0d0bjJkdXFfRTBLbTdNc2RXTVpORUxlNjBFbzJqYXg1T1FvMTh4dUl1X0pYb1JCSUxrRVBwaTlkSnRzUUcycDZkWTdqQmxrUm5HNnNkYVpjNWVkSDlyYkVfeWFFQW9GU1MtTGRZaWZtSlBZVldIUGJhTWhvcjdlTzBkd3N3RFNXaVFTZTZwN3FxQnhuWlN0Y1h3bTlBakxOSk1UVlM0YktmVGFBOHNqMjBJNHdwdk53SHc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVFFHR21Ha2UwcldfNldHYTRHNFNwLUw3UDNIOVFVSHVMUW5BOUVIdVRBSnk5NU5scFFtRXVmREZLNHgwQlBreGdHWHlUaVZXaWJTbVFfTnR4bFhDdk5sV1RKNi1LQ25WdURvR2MtWVhKNnhyWVBRcFhtMGtha3dxV0NvSUVmMllydXRNalAtSHR4LWh1XzJWZ2E0Z2IxWHPSAa4BQVVfeXFMT3FranByUkxCUUltc2VUZ0hTel9iR0w0bjJwdXZyeVhJVDV6R2hUNjF5NXlxTVFuTjFYaDYwTVpOSTJPai0xVGRCazkyNnJ1cHlXRlN5a0l3aVo3UDBBWGt6WXhYUUE3ZzBtUkpXbGh4emtRTHNkbkpTb2RpU0Y1dDgzR1k3by1yU0NtSU44WkNGNU9ZTEp3ZjE0N01JaE84eURxem95aUZQY1hLbjRn?oc=5",
+   "fonte": "g1"
+  },
+  {
+   "area": "criminal",
+   "data": "2026-11-24",
+   "titulo": "Moraes rejeita pedido para abater da pena de Zambelli o tempo de prisão na Itália e provisória",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdWhPd2puUTBQSDA3cFJacS05dGhQQ2VHeldjRkJNS0pSZ0VkVWIzVm93QmxJMDV0Zk5MMDNSOHVrai1fdnVOWWM2RGlkNWZTckY5N0hlUU5jb01wbFdBMDU0aXllNTFlMGUyZ2F6NDhWOUhmeERLTTBvOF9QaXdDY1RZM295WkZVZG1tN3dlQ3BJT2VKVkY4TlU0c1ZBZUJweXpSdlhRMjVxRTZiZm81Y0RMT0VDZXZoVklVbGRWUTJ1ODhOTF9taXdoaUkyQng2RHfSAdcBQVVfeXFMTzE3S2dveTc2dmNPMm5RVEpqT0JTYW1CQVB0dnZVdV8yck1zbVBYWTZHd0J6ODNydFYyT1ZvbjJUTGMxR3UzbjA0UmU2RkdpUVc3OF8tYVRSZ2pSWDNmMHFDQzBJMHBja0Z6TTAteDJ3S0RZUThtb3gtUGJ3VnBQVEc1R3pKRlZZTHljNlBmNmZncEYwVTRKM2YxaXFsZHl4OEh3N2RWSXhheC1TWWVULVNFZktyQVpFbmpfWDVNT3ZyaE1qQ2U0NndrdWMzR05kWG9HQmdqUFk?oc=5",
+   "fonte": "Estadão"
+  },
+  {
+   "area": "trabalhista",
+   "data": "2026-11-24",
+   "titulo": "TST fixa 3 teses sobre seguro garantia, dispensa de professor e FGTS",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM2ZXV3pIQUEyRTMwS2dxR2p1UTBaZjdZTHp6OGZiZ3dVMV9rZi1ETkNtUGRlejd4a3BmRmVMcW5NalJFbFJRUS0yM09OOVA5S0M2Tk40aEpKOFB4X1Z1MC1JRW55TUVlTzliT2dURGFQb2RWVkhVazlBX05ISTFsT2ZFX1cwY19CYmswTHNwajVrUzF2TGEtV2xNcVhpTF9hT1ppMHkzcUdwM2hwN3pr?oc=5",
+   "fonte": "Migalhas"
+  },
+  {
+   "area": "civel",
+   "data": "2026-11-24",
+   "titulo": "O casamento civil vai além do Código Civil",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2pZZFY3TGQxTFNlMXVzOXB3SDM4Q0xxcXI3aF9PREFDWWN2ODNRa2tYeFFMeVVfWlZsNjlDRkdOaXhaY1B2djVBUUh6SjVPTzRWZlZaSVc3azk2R3lyMUNpUDZVTlAtc1hyUGZRRmlnQzVQaGRLNzhvMVlETE9RMnlsUDNNZEFLdjlKRg?oc=5",
+   "fonte": "Migalhas"
+  },
+  {
+   "area": "transito",
+   "data": "2026-11-24",
+   "titulo": "Motoristas com CNH vencida ganham prazo extra para regularizar habilitação",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWRoejFQVXBIaUVPQi1Jd3hpQTFCMko0RzJONTFVaGV0UEc3SWJ3UVlDYzJCSll1TmlIVXdiZ0dqZ2NrNmVzdUZ3MWRPVzVYb0pnQTdIajg0M1NVTFNWd0I4cHNNcV83UUFjaDRsY0VVbkVjRUE2MDdmQmlPaU5jN1FMSmRMZWtLRzhIb3BPYnp1ZmFuOV9GdEdJM2tsd2FjWlZ6V3oyblo0RXpDeDRWMWozTDFNMGpzMzhWRGhVMzlfclZ2S2tBOGdOMzBsWkZNZUFQRmx4aXM0QdIB6AFBVV95cUxQdlNVQnk4TzZmdFZtZ3kyNXFtYS1EM3pvaTJzaEMtRk1YcFV1ZVJraEhOandLTk9UQW04c2dacnlKcDBzeVZTekt1TEgtUl9rcDE5bWRRV2VWQWEtWmF2cDJfUWtPS1JyYzAzX3BxdTVtVDE0MmVXQW0xRGp6OWFhUTVtR2VyNjV4TDJic2M4Y3E4X1lGZGZQaHBqODdfQmRPenUyeFdrV3V0cnRpOXNlR1hiZXRpSTdOR216YmFnYnRDd0JPelNkQlpjTFg3Rml6RWloWE5ITlNhdjdHNGVNR2lhQmlmdENZ?oc=5",
+   "fonte": "g1"
+  },
+  {
+   "area": "previdenciario",
+   "data": "2026-11-24",
+   "titulo": "INSS inicia pagamento de 13º a aposentados",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFJ6VHdnazl5WDlfVjQ4dEs5SnNuRjFkVlZiaVJnUWFZVUEwaFk0ZEZlYXhwcWlNcGxiVC1CeFRzY05IazBmUHF0UkFvVmdsN083VDFqaEw1cGlvVUMyMVpFMmVzX3RubjI2d3VzMUNvX0g5bGNoQ2NlMV9BLUNSdC0wRURpNG91MWg4REh6d0ZjVzZHQ3dyM0lpODBFQURpQzktZzJKRk4xdURTRnh0OHVaZDd2N01HMGp4NXRKUUtWNFFCcnJCZGpXSVFDMVXSAd4BQVVfeXFMUFZoanI2TGxVRlhMVkEyQ0pSX2lDeS1oNThHMmVwMEtlZDBlWVZuZ2tFdnY5bk94Vi1lUjdYWW90Szh4Rkg5Y2Y4a2hMbG5zZTdPbEp3MS1pNVdtMVZYRDFaVlhYaXJEeTlmd1BEYnFkNk5tc2UwN1ZxWDY3WFhTd0JRYXRQaEVSXzEydzlBdEdwQ1RHY0o4eUphcW1iME1vX2NjR3dCNFhPaUptZWw0TUpWRTU0YXBrYVE1RVRiOGt4WFJMRzFPRjhGSEtRMWRidEpCOUk4cmdvaEpDeEFn?oc=5",
+   "fonte": "g1"
+  },
+  {
+   "area": "criminal",
+   "data": "2026-11-24",
+   "titulo": "Juiz Evaldo Gavazza entra em exercício no Núcleo de Justiça 4.0 - Criminal",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDlnLWFuQURTRTlpeVlZWWZFWnNCcU5KYkI5d3U0aEpLWF9SRmJXVnMyM0J6UzhGb3VJTzRTVXVFTDVzbkpVc2R6YTl3OG52ZWtySmhhWTc2LURxb1c3TGpxQ0ZXNnN5d0xUQWVOTTRiZDZidlR5b2xWS3BZZjVNVTVpQ2t4LU5EN0dSVDlrUGVlVTM2TDRaalF6OXVtc3lvTXd6ZFNTejVTRFhXUi1hNTFYbmZTei1uSjlfSnZB?oc=5",
+   "fonte": "TJMG"
+  },
+  {
+   "area": "trabalhista",
+   "data": "2026-11-24",
+   "titulo": "Pedidos de rescisão indireta aumentaram mais de sete vezes desde 2020, diz TST",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFdCb1NqWmNROFRLMVBWOU96c01raHNyZXByNGxkYjZHRmhac3pBYVh3eTZiaGNxQ0tmbmxVZjJhdFA5c0FrNXhsb2FZcW5NR09rQzc1c0VMT3ZmMk9UUXNuYlR3SzhkbG4wa1Fhcjg2SG1iYnR3eEQ3b1hfbHlZa2JjNFlYWVhGMXlyMTJmejNaaUQ1ZTBKMHI5bVhaaWNOaVZHcW8zZw?oc=5",
+   "fonte": "Consultor Jurídico"
+  },
+  {
+   "area": "civel",
+   "data": "2026-11-24",
+   "titulo": "A responsabilidade civil do corretor em razão do atraso na entrega da obra",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEwzWE9TZUo5S2JkaG44YkhGWmlLZTdDVS0yVXV6elJFb2wxR1dRbGIyMk11bDZSOHU1RnVRV0lpYUpyQzJuLXpQOHRyejhvTkdUWTlKS2ozS014Y0gxQzhNV2ZhTzUyTzBtUVdETTFSZ2RYRS1OTmg5OEdXOWhKbk1KUjJsQ01CZnFUcWFNZ05fR0ZOZjViTWZnVjBFZE85cGlOTkNhSkxkTF9M?oc=5",
+   "fonte": "Migalhas"
+  },
+  {
+   "area": "transito",
+   "data": "2026-11-24",
+   "titulo": "Candidatos classificados para o Programa CNH da Gente devem comparecer a uma unidade do Detran a partir dessa quarta (25)",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZGFNWUdCbEZ2RmtqcjRSYTJrZDBvQXE2VzVlZmxkR29kb194azg2TnpjNmlVU1V6cXhKOUtqd2FrZjJGVy1ZRlhXWkljTDJZYmRaai1VWlR0SlZUaTZoRGw0ZmxoUGo4a2pXOXFFRVhQX1ExY2lpUFMwZDZzemFnSjZ4cjNKa3dySUZVYnBnbkpUNVFyLWxUWWJpWm9yNzBMV2UxTlZXeTd5T3Z3OHMxOEFkNGRaR1lWekZ3LVNJQ2JxQTA?oc=5",
+   "fonte": "ba.gov.br"
+  },
+  {
+   "area": "previdenciario",
+   "data": "2026-11-24",
+   "titulo": "Advogado é preso suspeito de cobrar até R$ 12 mil de dezenas de idosos sem dar entrada em pedidos de benefícios do INSS em Belém",
+   "resumo": "",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeXg1VFFtZ2lDdThZQzc3Y2lpZDAxWERkdDlENTA3WTAwaVlhVG91d2FwVnVkZ1pFdHRBNDlLN0VERkNEUFE1WklwRnpkLWdOQ3doRmFXSTVLa2R5TGF2dVMzam04T21RaHhJbDF1eFhUbno3bFlUYkgwbXZEeUh5RDBQc21TQ0NjclRtbm9fZnVObi1YSWtaVlJNbE4yZXd5LWE5TEFZSzRJSXNBblEtbi1FTUI0S1VjX1JaSWtndGpJSWo1cXVnYnE3Q2dWZlAzVFhDbmx0cTAxelhfYWdSTFBERVoxekdOeGQ4LUtxMUxmcHFPWlJvb0Z3RDFpWlHSAY4CQVVfeXFMTzNjbk9tbjhHeDBiLW5STXBkWkNmRVFrS2cyN3FOVEdJeVhsandMOUdGM043c29fdlk0MmF2UVhwaFItZkhMbjRYd28ydmE3NW1DTi1RLXpCSVQ1NTNFQ2I4YTE3RzFYczJIZ3c2ZXREbW1EM0ZYdF9udWtwbFhac1drQ21PNVdTaTBOaElJX2lCcVdPNDN0N0FFT3V1ZExUSVd3OURJQmFUOTM5RE9QbHR6ZGJPckxSZXZqTVljcTV3UGZNYTJxZktqQUtLcF9sR1hiTHAzVld0X3h1NTUtd2JBUDMyVUtIb2x3YUJ4aldqT1c1RWx2eUFMLXhqNDR6MVZoQmthRXlLZUR5OXVB?oc=5",
    "fonte": "g1"
   }
  ]
